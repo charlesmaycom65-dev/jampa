@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0e7c86">
+  <title>Jampa 7 dias</title>
+  <meta property="og:title" content="Jampa 7 dias: vamos escolher juntos">
+  <meta property="og:description" content="Vote nas praias, passeios, restaurantes e noites da nossa viagem a João Pessoa.">
+  <meta property="og:image" content="https://charlesmaycom65-dev.github.io/jampa/fotos/capa.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="capa">
+    <img class="capa__foto" src="fotos/p8-1.webp" alt="Praia de Tambaba, no Litoral Sul da Paraíba" fetchpriority="high">
+    <div class="capa__texto">
+      <p class="capa__sobre">Viagem do grupo · 7 dias</p>
+      <h1>João Pessoa</h1>
+      <p class="capa__sub">Vote dia por dia no que você topa. Pode marcar vários, e o grupo vê na hora.</p>
+      <p class="capa__status"><span id="ponto-vivo" class="ponto"></span><span id="texto-vivo">Conectando</span><span id="total-pessoas"></span></p>
+      <p class="capa__credito">Praia de Tambaba. Foto: Hansfotos · CC BY-SA 4.0</p>
+    </div>
+  </header>
+
+  <main class="pagina">
+    <section id="entrada" class="entrada" aria-labelledby="titulo-entrada">
+      <h2 id="titulo-entrada">Qual é o seu nome?</h2>
+      <form id="form-nome" class="entrada__form">
+        <input id="campo-nome" maxlength="24" placeholder="Ex.: Maycon" autocomplete="given-name" aria-label="Seu nome" required>
+        <button class="botao botao--escuro" type="submit">Salvar</button>
+      </form>
+      <p class="nota">Depois abra um dia, escolha uma lista e toque em Votar. Mudou de ideia? Toque de novo.</p>
+    </section>
+
+    <details class="aviso">
+      <summary>Antes de votar: preços, marés e distâncias</summary>
+      <p><b>Valores:</b> cada preço mostra de quando é. No fim de ano e no Réveillon podem subir, então confirme antes de ir. Em restaurantes e bares, o R$ junto das estrelas é a faixa por pessoa, ao vivo do Google. Se o cartão trouxer outro valor, ele mostra a data.</p>
+      <p><b>Aberto ou Fechado:</b> vale para agora, não para o dia da viagem.</p>
+      <p><b>Maré baixa:</b> os lugares com o selo dependem dela. Antes de fechar o dia, confira a tábua de marés da Marinha para o Porto de Cabedelo. Maré de até cerca de 0,5 m costuma ser o ideal.</p>
+      <p><b>Banho de mar:</b> no boletim da Sudema de 30/10/2026, nenhuma praia desta lista estava imprópria. O boletim muda toda semana.</p>
+      <p><b>Distâncias:</b> de carro, saindo do hotel (Av. Cabo Branco, 1262), sem contar trânsito.</p>
+    </details>
+
+    <section id="dias" class="dias" aria-label="Dias da viagem"></section>
+
+    <footer class="rodape">
+      <p>Dados conferidos entre 31/10 e 01/11/2026. Avaliações, horários e faixas de preço: Google, ao vivo. Fotos: Wikimedia Commons, com autor em cada foto, ou Google. Mapas: © colaboradores do OpenStreetMap. Rotas: OSRM.</p>
+    </footer>
+  </main>
+
+  <div class="barra">
+    <p class="barra__conta" id="meus-votos">Seus votos: <b>0</b></p>
+    <button id="abrir-plano-b" class="botao botao--claro" type="button">Deu erro? WhatsApp</button>
+  </div>
+
+  <div id="folha" class="folha" hidden>
+    <button class="folha__fundo" type="button" aria-label="Fechar" data-fechar></button>
+    <div class="folha__caixa" role="dialog" aria-modal="true" aria-labelledby="folha-titulo">
+      <div class="folha__topo">
+        <h3 id="folha-titulo"></h3>
+        <button class="folha__fechar" type="button" aria-label="Fechar" data-fechar>×</button>
+      </div>
+      <div id="folha-corpo" class="folha__corpo"></div>
+    </div>
+  </div>
+
+  <div id="aviso-rapido" class="aviso-rapido" role="status" aria-live="polite"></div>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

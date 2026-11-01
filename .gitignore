@@ -1,0 +1,7 @@
+.env.local
+.DS_Store
+.claude/
+prova/
+data/lugares-base.json
+js/firebase-config.js
+js/google-config.js

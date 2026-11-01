@@ -1,0 +1,9673 @@
+[
+ {
+  "id": "p1",
+  "topico": "praias",
+  "nome": "Praia do Cabo Branco",
+  "area": "Cabo Branco",
+  "texto": "Fica na porta do hotel, com coqueiros na areia, calçadão e ciclovia.",
+  "dica": "O aluguel de cadeira se concentra no trecho perto de Tambaú.",
+  "endereco": "Orla de Cabo Branco, Av. Cabo Branco, bairro Cabo Branco, João Pessoa (em frente à hospedagem, segundo o enunciado do painel)",
+  "valor": "Praia grátis · guarda-sol com cadeiras de R$ 30 a R$ 100 (pergunte se é por conjunto)",
+  "valor_ref": "valor de jan/2026",
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJq9kEGQDDrAcRqv7IdKXvJEA",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p1-1.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaDoCaboBranco_Jo%C3%A3oPessoa_PB_(27017752818).jpg"
+   },
+   {
+    "arquivo": "fotos/p1-2.webp",
+    "autor": "sergiorfilho",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Cabo_Branco_Beach_-_panoramio.jpg"
+   },
+   {
+    "arquivo": "fotos/p1-3.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaCaboBranco_Jo%C3%A3oPessoa_PB_(39994579265).jpg"
+   },
+   {
+    "arquivo": "fotos/p1-4.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaDoCaboBranco_Jo%C3%A3oPessoa_PB_(39994336355).jpg"
+   },
+   {
+    "arquivo": "fotos/p1-5.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaDoCaboBranco_Jo%C3%A3oPessoa_PB_(39994343015).jpg"
+   }
+  ],
+  "lat": -7.1206,
+  "lng": -34.8226,
+  "ponto": "osm",
+  "rota": {
+   "km": 0.1,
+   "min": 1,
+   "pe_min": 2,
+   "linha": [
+    [
+     -7.1206,
+     -34.8238
+    ],
+    [
+     -7.1206,
+     -34.8226
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p2",
+  "topico": "praias",
+  "nome": "Praia de Tambaú",
+  "area": "Tambaú",
+  "texto": "A praia mais famosa e movimentada da cidade. Daqui saem os catamarãs pra Picãozinho e à noite o calçadão ferve.",
+  "dica": "Boa pra emendar com o passeio de barco e depois a feirinha à noite.",
+  "endereco": "Orla de Tambaú, Av. Almirante Tamandaré, bairro Tambaú, João Pessoa",
+  "valor": "Praia grátis · guarda-sol com cadeiras de R$ 30 a R$ 100 na orla (pergunte se é por conjunto)",
+  "valor_ref": "valor de jan/2026",
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJOZ_37MvdrAcRi_7tDmihMYY",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p2-1.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tamba%C3%BA_-_Jo%C3%A3o_Pessoa_-_PB_-_panoramio_(1).jpg"
+   },
+   {
+    "arquivo": "fotos/p2-2.webp",
+    "autor": "Daniel Murgi filho",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Orla_de_Jo%C3%A3o_pessoa.jpg"
+   },
+   {
+    "arquivo": "fotos/p2-3.webp",
+    "autor": "Rosanetur",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tamba%C3%BA,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p2-4.webp",
+    "autor": "Rayzagyn",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Tamba%C3%BA_-_Jo%C3%A3o_Pessoa.JPG"
+   }
+  ],
+  "lat": -7.115345,
+  "lng": -34.822294,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.4,
+   "min": 2,
+   "pe_min": 17,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11523,
+     -34.82276
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p3",
+  "topico": "praias",
+  "nome": "Ponta do Seixas",
+  "area": "Seixas",
+  "texto": "O ponto mais oriental das Américas, com areia clara e muito verde em volta.",
+  "dica": "Combine com o Praiô e com o Farol do Cabo Branco, tudo pertinho.",
+  "endereco": "Praia do Seixas / Ponta do Seixas, João Pessoa, entre a Praia da Penha (ao sul) e Cabo Branco (ao norte); fica a cerca de 3 km ao sul do bairro de Cabo Branco",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJCbZxRxXDrAcR_NjW7aIH6oU",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Na maré alta a faixa de areia quase some."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p3-1.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ponta_do_Seixas_-_Jo%C3%A3o_Pessoa_(5489682321).jpg"
+   },
+   {
+    "arquivo": "fotos/p3-2.webp",
+    "autor": "MTur Destinos",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ponta_do_Seixas,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p3-3.webp",
+    "autor": "Kelma Cavalcante",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ponta_do_Seixas.jpg"
+   },
+   {
+    "arquivo": "fotos/p3-4.webp",
+    "autor": "valgnelo",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ponta_do_Seixas_Jo%C3%A3o_Pessoa_PB_-_panoramio.jpg"
+   }
+  ],
+  "lat": -7.15508,
+  "lng": -34.793309,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.9,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15519,
+     -34.79368
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p4",
+  "topico": "praias",
+  "nome": "Praia da Penha",
+  "area": "Seixas",
+  "texto": "Vila de pescadores ao sul do Seixas, mais rústica e tranquila.",
+  "dica": "Programa calmo pra quem quer fugir do movimento.",
+  "endereco": "Praia da Penha, João Pessoa (Avenida Praia dos Pescadores, citada nos boletins da Sudema)",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJN9LpaXPDrAcR9Cc-6PZJcHA",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Teve trechos impróprios para banho em setembro e outubro. Liberada no boletim de 30/10."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p4-1.webp",
+    "autor": "A. Júnior",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_da_Penha_-_Jo%C3%A3o_Pessoa,_Para%C3%ADba,_Brasil.jpg"
+   },
+   {
+    "arquivo": "fotos/p4-2.webp",
+    "autor": "Abdias Jr",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Escadaria_da_Praia_da_Penha_-_Jo%C3%A3o_Pessoa,_Para%C3%ADba,_Brasil_(13761462164).jpg"
+   },
+   {
+    "arquivo": "fotos/p4-3.webp",
+    "autor": "Matheus Jampa da Silva",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Vista_Panor%C3%A2mica_da_Praia_da_Penha,_em_Jo%C3%A3o_Pessoa,_na_Para%C3%ADba.jpg"
+   }
+  ],
+  "lat": -7.168991,
+  "lng": -34.795867,
+  "ponto": "osm",
+  "rota": {
+   "km": 10.8,
+   "min": 12,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12443,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16054,
+     -34.81982
+    ],
+    [
+     -7.16043,
+     -34.81478
+    ],
+    [
+     -7.16128,
+     -34.80126
+    ],
+    [
+     -7.16259,
+     -34.80071
+    ],
+    [
+     -7.1651,
+     -34.80078
+    ],
+    [
+     -7.16659,
+     -34.80012
+    ],
+    [
+     -7.16912,
+     -34.80101
+    ],
+    [
+     -7.17293,
+     -34.80123
+    ],
+    [
+     -7.16911,
+     -34.80086
+    ],
+    [
+     -7.16946,
+     -34.79623
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p5",
+  "topico": "praias",
+  "nome": "Praia de Manaíra",
+  "area": "Manaíra",
+  "texto": "Vizinha de Tambaú, mais tranquila e menos frequentada.",
+  "dica": "Perto dos restaurantes de frutos do mar mais conhecidos da cidade.",
+  "endereco": "Orla de Manaíra, bairro Manaíra, João Pessoa",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJFS0dYhjdrAcRehWiZ1qvhyY",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p5-1.webp",
+    "autor": "Patrick - Patrick",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Jo%C3%A3o-Pessoa-Praia-Mana%C3%ADra-Tamba%C3%BA.jpg"
+   },
+   {
+    "arquivo": "fotos/p5-2.webp",
+    "autor": "Patrick - Patrick",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Jo%C3%A3o-Pessoa-Praia-Mana%C3%ADra-Bessa.jpg"
+   },
+   {
+    "arquivo": "fotos/p5-3.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Mana%C3%ADra_-_panoramio.jpg"
+   },
+   {
+    "arquivo": "fotos/p5-4.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Mana%C3%ADra_-_panoramio_-_Zelma_Brito_(1).jpg"
+   }
+  ],
+  "lat": -7.104309,
+  "lng": -34.829323,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.8,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10642,
+     -34.82786
+    ],
+    [
+     -7.10452,
+     -34.82959
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p6",
+  "topico": "praias",
+  "nome": "Praia do Bessa",
+  "area": "Bessa",
+  "texto": "Faixa de areia longa, com trechos movimentados e outros bem tranquilos. Concentra os beach clubs mais novos.",
+  "dica": "Junte com o Goa Shantti ou o Fullano Praia.",
+  "endereco": "Orla do Bessa, bairro Bessa, João Pessoa",
+  "valor": "Praia grátis · segundo as barracas, quem almoça ganha cadeira",
+  "valor_ref": "informação de fev/2026",
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJebtsNwDdrAcRXpHB4YCqR-k",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Em alguns trechos a areia some na maré alta."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p6-1.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Bessa,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p6-2.webp",
+    "autor": "MTur Destinos",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Bessa_-_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p6-3.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_Bessa_-_panoramio_-_Zelma_Brito.jpg"
+   }
+  ],
+  "lat": -7.07665,
+  "lng": -34.829741,
+  "ponto": "osm",
+  "rota": {
+   "km": 6.4,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09734,
+     -34.83642
+    ],
+    [
+     -7.09709,
+     -34.83465
+    ],
+    [
+     -7.09181,
+     -34.83466
+    ],
+    [
+     -7.08757,
+     -34.83407
+    ],
+    [
+     -7.08449,
+     -34.83318
+    ],
+    [
+     -7.07945,
+     -34.83097
+    ],
+    [
+     -7.07654,
+     -34.83063
+    ],
+    [
+     -7.07656,
+     -34.83001
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p7",
+  "topico": "praias",
+  "nome": "Praia de Coqueirinho",
+  "area": "Litoral Sul",
+  "texto": "Enseada de mar calmo cercada de falésias coloridas. Uma das praias mais procuradas do Litoral Sul.",
+  "dica": "Dia de semana é bem melhor: evita as excursões. As notas do Google são do mirante da praia.",
+  "endereco": "Praia de Coqueirinho, Conde (PB), Litoral Sul, a cerca de 30 km de João Pessoa pela PB-008",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJxzhkquy_rAcRTWhf0dTYO64",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p7-1.webp",
+    "autor": "Eduardo Ribeiro de Paiva",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Canion_de_Coqueirinho,_paraiba.jpg"
+   },
+   {
+    "arquivo": "fotos/p7-2.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Coqueirinho_-_Para%C3%ADso_no_Litoral_da_Para%C3%ADba_pr%C3%B3ximo_a_Praia_Preservada_de_Tabatinga._(17002820688).jpg"
+   },
+   {
+    "arquivo": "fotos/p7-3.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Coqueirinho_-_Para%C3%ADba_-_Brasil_(33360745180).jpg"
+   },
+   {
+    "arquivo": "fotos/p7-4.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Coqueirinho_-_Para%C3%ADso_no_Litoral_da_Para%C3%ADba_pr%C3%B3ximo_a_Praia_Preservada_de_Tabatinga._(17189578541).jpg"
+   },
+   {
+    "arquivo": "fotos/p7-5.webp",
+    "autor": "Fabianan",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Coqueirinho_-_ondas_em_corais.JPG"
+   }
+  ],
+  "lat": -7.329783,
+  "lng": -34.795357,
+  "ponto": "osm",
+  "rota": {
+   "km": 34.3,
+   "min": 39,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23796,
+     -34.84348
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25353,
+     -34.81131
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27944,
+     -34.80079
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29032,
+     -34.80624
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.3036,
+     -34.81001
+    ],
+    [
+     -7.31174,
+     -34.80954
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33365,
+     -34.80989
+    ],
+    [
+     -7.3342,
+     -34.80313
+    ],
+    [
+     -7.32963,
+     -34.79851
+    ],
+    [
+     -7.32986,
+     -34.79558
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p8",
+  "topico": "praias",
+  "nome": "Praia de Tambaba",
+  "area": "Litoral Sul",
+  "texto": "Falésias, pedras e piscinas naturais. A primeira parte é de banho com roupa. Mais adiante começa a área naturista.",
+  "dica": "A parte de banho com roupa já vale a visita.",
+  "endereco": "Praia de Tambaba, Conde (PB), Litoral Sul, a cerca de 30 km de João Pessoa",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJh2Zokj-8rAcRJUAPLCbBRKk",
+  "mare": true,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "As piscinas naturais dependem da maré baixa.",
+   "Na área naturista a nudez é obrigatória e o acesso é controlado. Confirme a regra para homens desacompanhados."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p8-1.webp",
+    "autor": "Hansfotos",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tambaba-PB2.jpg"
+   },
+   {
+    "arquivo": "fotos/p8-2.webp",
+    "autor": "Hansfotos",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tambaba-PB1.jpg"
+   },
+   {
+    "arquivo": "fotos/p8-3.webp",
+    "autor": "Rogerio121402",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tambaba_-_APA_de_Tambaba_-_Rogerio121402_(01).jpg"
+   },
+   {
+    "arquivo": "fotos/p8-4.webp",
+    "autor": "Raquel Saggin",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Pedras_de_Tambaba.jpg"
+   },
+   {
+    "arquivo": "fotos/p8-5.webp",
+    "autor": "Raquel Saggin",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tambaba_e_fal%C3%A9sias.jpg"
+   }
+  ],
+  "lat": -7.368752,
+  "lng": -34.797979,
+  "ponto": "osm",
+  "rota": {
+   "km": 37.5,
+   "min": 45,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23781,
+     -34.8435
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.2789,
+     -34.80085
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.3036,
+     -34.81001
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33479,
+     -34.81007
+    ],
+    [
+     -7.33925,
+     -34.80942
+    ],
+    [
+     -7.34232,
+     -34.80313
+    ],
+    [
+     -7.35489,
+     -34.80327
+    ],
+    [
+     -7.35974,
+     -34.80624
+    ],
+    [
+     -7.363,
+     -34.80167
+    ],
+    [
+     -7.37036,
+     -34.80006
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p9",
+  "topico": "praias",
+  "nome": "Praia de Tabatinga",
+  "area": "Litoral Sul",
+  "texto": "Vizinha de Coqueirinho, com falésias e mirante famoso. Costuma ser mais vazia.",
+  "dica": "Dá para seguir até o Mirante das Tartarugas na trilha de buggy.",
+  "endereco": "Praia de Tabatinga, Conde (PB), Litoral Sul, a cerca de 30 km de João Pessoa pela PB-008",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ-Sh0_OO-rAcRsGus6Pk2iZM",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Bombeiros orientam manter distância das áreas altas com pedras, por risco de deslizamento."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p9-1.webp",
+    "autor": "Henriqueramalhoo",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tabatinga_IMG-20160615-WA0004.jpg"
+   },
+   {
+    "arquivo": "fotos/p9-2.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaTabatinga_Conde_PB_(40183792554).jpg"
+   },
+   {
+    "arquivo": "fotos/p9-3.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaTabatinga_Conde_PB_(27021143618).jpg"
+   },
+   {
+    "arquivo": "fotos/p9-4.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_PraiaTabatinga_Conde_PB_(40891452201).jpg"
+   },
+   {
+    "arquivo": "fotos/p9-5.webp",
+    "autor": "Kelma Cavalcante",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Tabatinga1.jpg"
+   }
+  ],
+  "lat": -7.31479,
+  "lng": -34.801953,
+  "ponto": "osm",
+  "rota": {
+   "km": 31.0,
+   "min": 34,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23781,
+     -34.8435
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25353,
+     -34.81131
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27907,
+     -34.80081
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29032,
+     -34.80624
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.30375,
+     -34.81003
+    ],
+    [
+     -7.31255,
+     -34.80914
+    ],
+    [
+     -7.31614,
+     -34.80488
+    ],
+    [
+     -7.31527,
+     -34.80235
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p10",
+  "topico": "praias",
+  "nome": "Barra de Gramame",
+  "area": "Litoral Sul",
+  "texto": "Encontro do rio com o mar formando uma grande área de águas calmas e rasas. Cenário rústico e pouco turístico.",
+  "dica": "É o caminho pro Litoral Sul. Boa parada na ida ou na volta.",
+  "endereco": "Barra de Gramame, na divisa entre João Pessoa (norte) e Conde (sul)",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJs1ss--XBrAcRs_O_32TMxH4",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "O banho mais seguro é no rio. Evite atravessar para o mar com a maré enchendo."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p10-1.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barra_de_Gramane.jpg"
+   },
+   {
+    "arquivo": "fotos/p10-2.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barra_de_Gramame_-_Para%C3%ADba_-_Brasil_(11408214824).jpg"
+   },
+   {
+    "arquivo": "fotos/p10-3.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barra_de_Gramame_-_Para%C3%ADba_-_Brasil_(11408222005).jpg"
+   },
+   {
+    "arquivo": "fotos/p10-4.webp",
+    "autor": "Ruy Carvalho",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barra_de_Gramame,_PB,_Brasil.jpg"
+   }
+  ],
+  "lat": -7.248429,
+  "lng": -34.836468,
+  "ponto": "conferir",
+  "rota": {
+   "km": 24.0,
+   "min": 31,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15217,
+     -34.81683
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21869,
+     -34.83532
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23813,
+     -34.84343
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.24943,
+     -34.82739
+    ],
+    [
+     -7.2521,
+     -34.82991
+    ],
+    [
+     -7.26122,
+     -34.83228
+    ],
+    [
+     -7.26041,
+     -34.83833
+    ],
+    [
+     -7.25662,
+     -34.83651
+    ],
+    [
+     -7.25181,
+     -34.83677
+    ],
+    [
+     -7.25081,
+     -34.83919
+    ],
+    [
+     -7.24831,
+     -34.83775
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p11",
+  "topico": "praias",
+  "nome": "Praia Bela",
+  "area": "Pitimbu",
+  "texto": "Encontro do rio de águas escuras do mangue com o mar, formando piscinas e áreas calmas. Dá pra ficar no rio ou atravessar pro mar.",
+  "dica": "É a mais longe da lista: separe o dia inteiro.",
+  "endereco": "Praia Bela, Pitimbu (PB), Litoral Sul, acesso pela PB-008",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJJ0NQoYi9rAcRQIfGQbpVM6Y",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p11-1.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Bela_-_Para%C3%ADba_-_panoramio_(2).jpg"
+   },
+   {
+    "arquivo": "fotos/p11-2.webp",
+    "autor": "eduardo paiva",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Bela,_Pitimbu,_PB.jpg"
+   },
+   {
+    "arquivo": "fotos/p11-3.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Bela_-_Para%C3%ADba_-_panoramio_(1).jpg"
+   },
+   {
+    "arquivo": "fotos/p11-4.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_Bela_-_Para%C3%ADba_-_panoramio_(4).jpg"
+   }
+  ],
+  "lat": -7.402742,
+  "lng": -34.804986,
+  "ponto": "osm",
+  "rota": {
+   "km": 45.4,
+   "min": 48,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23764,
+     -34.84351
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.2789,
+     -34.80085
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.30375,
+     -34.81003
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33817,
+     -34.8099
+    ],
+    [
+     -7.34219,
+     -34.80318
+    ],
+    [
+     -7.35015,
+     -34.80399
+    ],
+    [
+     -7.35196,
+     -34.82016
+    ],
+    [
+     -7.37696,
+     -34.82277
+    ],
+    [
+     -7.38155,
+     -34.83003
+    ],
+    [
+     -7.39182,
+     -34.82178
+    ],
+    [
+     -7.39287,
+     -34.81389
+    ],
+    [
+     -7.39675,
+     -34.81116
+    ],
+    [
+     -7.40346,
+     -34.81129
+    ],
+    [
+     -7.40717,
+     -34.80755
+    ],
+    [
+     -7.40262,
+     -34.8055
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p13",
+  "topico": "praias",
+  "nome": "Praia de Camboinha",
+  "area": "Cabedelo",
+  "texto": "Uma das mais bonitas de Cabedelo, com mar calmo e verdinho. Da areia se vê a Ilha de Areia Vermelha.",
+  "dica": "Combine com o passeio pra Areia Vermelha.",
+  "endereco": "Praia de Camboinha, Cabedelo (PB)",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJua5QAXXfrAcRdfUJOuPOC54",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/p13-1.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Camboinha,_Cabedelo_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p13-2.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Camboinha_-_Cabedelo_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p13-3.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Camboinha_em_Cabedelo_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p13-4.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Camboinha,_praia_de_Cabedelo_(PB).jpg"
+   }
+  ],
+  "lat": -7.006813,
+  "lng": -34.825976,
+  "ponto": "osm",
+  "rota": {
+   "km": 16.1,
+   "min": 19,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.0571,
+     -34.85063
+    ],
+    [
+     -7.05028,
+     -34.84944
+    ],
+    [
+     -7.00589,
+     -34.8292
+    ],
+    [
+     -7.00665,
+     -34.82602
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p14",
+  "topico": "praias",
+  "nome": "Praia do Poço",
+  "area": "Cabedelo",
+  "texto": "Praia tranquila de Cabedelo, com quiosques na orla.",
+  "dica": "Barcos para a Areia Vermelha saem da região na maré baixa.",
+  "endereco": "Praia do Poço, Cabedelo (PB)",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ9amGBdbfrAcRs9ZA5_5_Y5U",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.020215,
+  "lng": -34.829402,
+  "ponto": "osm",
+  "rota": {
+   "km": 14.6,
+   "min": 17,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.05835,
+     -34.85058
+    ],
+    [
+     -7.05421,
+     -34.85046
+    ],
+    [
+     -7.05028,
+     -34.84944
+    ],
+    [
+     -7.021,
+     -34.83602
+    ],
+    [
+     -7.02083,
+     -34.82986
+    ]
+   ]
+  }
+ },
+ {
+  "id": "p15",
+  "topico": "praias",
+  "nome": "Praia de Intermares",
+  "area": "Cabedelo",
+  "texto": "Praia extensa com orla urbanizada e ondas que atraem surfistas. Fica logo depois do Bessa.",
+  "dica": "Opção mais perto pra quem quer praia de Cabedelo sem ir longe.",
+  "endereco": "Praia de Intermares, Cabedelo (PB), primeira praia de Cabedelo depois da divisa com João Pessoa",
+  "valor": "Praia grátis · cadeira e guarda-sol: valor a confirmar",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJS_1_YAverAcR-yk3spzQr0E",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Ondas fortes e correnteza: atenção no banho."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/p15-1.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Intermares_-_Cabedelo_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p15-2.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_de_Intermares,_Cabedelo_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/p15-3.webp",
+    "autor": "User:Stigmj",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Intermares.jpg"
+   }
+  ],
+  "lat": -7.046636,
+  "lng": -34.84129,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.9,
+   "min": 14,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.0945,
+     -34.83653
+    ],
+    [
+     -7.09353,
+     -34.83822
+    ],
+    [
+     -7.08861,
+     -34.83846
+    ],
+    [
+     -7.08747,
+     -34.8395
+    ],
+    [
+     -7.08392,
+     -34.83996
+    ],
+    [
+     -7.0784,
+     -34.83941
+    ],
+    [
+     -7.07557,
+     -34.84152
+    ],
+    [
+     -7.05924,
+     -34.84565
+    ],
+    [
+     -7.05877,
+     -34.84376
+    ],
+    [
+     -7.04648,
+     -34.84184
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l1",
+  "topico": "lounges",
+  "nome": "Terraço Cabo Branco",
+  "area": "Cabo Branco",
+  "texto": "Bar no calçadão de Cabo Branco, com vista da orla.",
+  "dica": "Chegue cedo no fim de semana para pegar mesa na frente.",
+  "endereco": "Calçadão da Orla, Cabo Branco",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJV6O1ombdrAcRXcv5FW8ss6I",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.121983,
+  "lng": -34.823794,
+  "ponto": "osm",
+  "rota": {
+   "km": 0.2,
+   "min": 0,
+   "pe_min": 2,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12198,
+     -34.82398
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l2",
+  "topico": "lounges",
+  "nome": "Quiosque Esquenta Beach",
+  "area": "Cabo Branco",
+  "texto": "Quiosque pé na areia bem avaliado, com cadeiras na praia e petiscos. Praticamente na porta do hotel.",
+  "dica": "Prático pra praia rápida sem pegar carro.",
+  "endereco": "Av. Cabo Branco, em frente ao nº 1538",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJz8qdACzdrAcRFNZxRBF9vgg",
+  "mare": false,
+  "instagram": "https://www.instagram.com/quiosqueesquentabeach/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.1225,
+  "lng": -34.8238,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 0.2,
+   "min": 0,
+   "pe_min": 3,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12164,
+     -34.82398
+    ],
+    [
+     -7.1225,
+     -34.82398
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l3",
+  "topico": "lounges",
+  "nome": "Quiosque Biquinis",
+  "area": "Cabo Branco",
+  "texto": "Quiosque na orla de Cabo Branco, bom para praia de dia.",
+  "dica": "Confira o horário no Google, logo acima.",
+  "endereco": "Av. Cabo Branco, Cabo Branco",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ3SMmRDLDrAcRi55C43KlwCc",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.145574,
+  "lng": -34.806428,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.8,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1247,
+     -34.82387
+    ],
+    [
+     -7.12735,
+     -34.82338
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.1395,
+     -34.81699
+    ],
+    [
+     -7.14255,
+     -34.81428
+    ],
+    [
+     -7.14477,
+     -34.81167
+    ],
+    [
+     -7.14586,
+     -34.80927
+    ],
+    [
+     -7.14612,
+     -34.80909
+    ],
+    [
+     -7.14604,
+     -34.80774
+    ],
+    [
+     -7.14557,
+     -34.80643
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l4",
+  "topico": "lounges",
+  "nome": "Praiô Beach Club",
+  "area": "Seixas",
+  "texto": "Beach club com clima de surfe a poucos metros do mar, com deck, lounges com redes, banheiros e chuveiros. Música ao vivo.",
+  "dica": "Chegue cedo na alta temporada.",
+  "endereco": "R. dos Pescadores, 05, Ponta do Seixas, João Pessoa - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todo dia, 10h às 17h · quarta, Luauzinho das 19h às 23h30",
+  "fecha": null,
+  "place_id": "ChIJcbCZuYvDrAcRMvte0H3dO6Y",
+  "mare": false,
+  "instagram": "https://www.instagram.com/praiobeachclub/",
+  "menu": null,
+  "alertas": [
+   "Foi interditado em 2024 pela Sudema, órgão ambiental do estado, e segue funcionando em 2026."
+  ],
+  "fotos": [],
+  "lat": -7.156516,
+  "lng": -34.79394,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.8,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15652,
+     -34.79394
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l5",
+  "topico": "lounges",
+  "nome": "Barra Beach Bar",
+  "area": "Seixas",
+  "texto": "Bar e restaurante pé na areia no Seixas, ao lado do Praiô. Alternativa mais simples na mesma praia.",
+  "dica": "Bom plano B se o Praiô lotar.",
+  "endereco": "Rua dos Pescadores, 10, Seixas",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJPSpGfwDDrAcR00_qxBxkdDY",
+  "mare": false,
+  "instagram": "https://www.instagram.com/barrabeach_seixas",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.156516,
+  "lng": -34.79394,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.8,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15652,
+     -34.79394
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l7",
+  "topico": "lounges",
+  "nome": "Goa Shantti Beach Club",
+  "area": "Bessa",
+  "texto": "Inspirado nos beach clubs europeus, com piscina, lounges e drinks autorais.",
+  "dica": "Reserve lounge pelo WhatsApp (83) 98655-1581.",
+  "endereco": "Av. Arthur Monteiro de Paiva, 151, Bessa, João Pessoa - PB, 58035-010",
+  "valor": "Pratos no Menu · lounge: valor a confirmar",
+  "valor_ref": "cardápio de mai/2026",
+  "faixa_google": false,
+  "horario": "Terça a domingo, 9h às 17h",
+  "fecha": "Fecha segunda",
+  "place_id": "ChIJtZWwhsPdrAcRanTTKZGzLaM",
+  "mare": false,
+  "instagram": "https://www.instagram.com/goashantti",
+  "menu": "https://drive.google.com/file/d/1I1p-MvY2eTAu69Vyd3LQaGjiCIbWmcvq/view",
+  "alertas": [
+   "Tem eventos pagos, como um de Réveillon marcado para 27/12. Confirme a data."
+  ],
+  "fotos": [],
+  "lat": -7.060549,
+  "lng": -34.842439,
+  "ponto": "osm",
+  "rota": {
+   "km": 8.4,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.0945,
+     -34.83653
+    ],
+    [
+     -7.09365,
+     -34.83818
+    ],
+    [
+     -7.08861,
+     -34.83846
+    ],
+    [
+     -7.08747,
+     -34.8395
+    ],
+    [
+     -7.08392,
+     -34.83996
+    ],
+    [
+     -7.0784,
+     -34.83941
+    ],
+    [
+     -7.07557,
+     -34.84152
+    ],
+    [
+     -7.06322,
+     -34.84465
+    ],
+    [
+     -7.06246,
+     -34.84171
+    ],
+    [
+     -7.06055,
+     -34.84244
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l8",
+  "topico": "lounges",
+  "nome": "Fullano Praia",
+  "area": "Bessa",
+  "texto": "Um dos pé na areia mais movimentados da cidade, com estrutura grande e música ao vivo nos fins de semana.",
+  "dica": "Dá para passar o dia em grupo. O serviço de 10% é opcional.",
+  "endereco": "Av. Gov. Argemiro de Figueiredo, 1932, Jardim Oceania, João Pessoa - PB",
+  "valor": "Couvert R$ 15 por pessoa · pratos no Menu",
+  "valor_ref": "cardápio de fev/2026",
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJq2thzrrdrAcRend9tNHhKLM",
+  "mare": false,
+  "instagram": "https://www.instagram.com/fullanopraia/",
+  "menu": "https://drive.google.com/file/d/1zJeYFV2a3fyxciK8tfh9jPDseH8DBF-G/view",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.0804,
+  "lng": -34.831,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 5.9,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09752,
+     -34.8364
+    ],
+    [
+     -7.09709,
+     -34.83465
+    ],
+    [
+     -7.09181,
+     -34.83466
+    ],
+    [
+     -7.08757,
+     -34.83407
+    ],
+    [
+     -7.08449,
+     -34.83318
+    ],
+    [
+     -7.08049,
+     -34.83141
+    ],
+    [
+     -7.08061,
+     -34.83123
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l9",
+  "topico": "lounges",
+  "nome": "Lovina Ponta de Campina",
+  "area": "Cabedelo",
+  "texto": "Beach club grande na Ponta de Campina, mar calmo, música ao vivo, sombra e chuveiros. Também é ponto de embarque pra Areia Vermelha.",
+  "dica": "Reservas pelo WhatsApp (83) 99408-6376. Pergunte a consumação mínima de cada setor antes de sentar.",
+  "endereco": "Rua Vitorino Cardoso, Ponta de Campina, Cabedelo - PB",
+  "valor": "Couvert R$ 15 por pessoa · pratos no Menu",
+  "valor_ref": "cardápio de fev/2026",
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJdbKCxUTerAcRNmBt0eRrdX8",
+  "mare": false,
+  "instagram": "https://www.instagram.com/lovinapontadecampina/",
+  "menu": "https://drive.google.com/file/d/1A5ovtU_N7T2yTJ17pW7-K344G0tmaFnb/view",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.028706,
+  "lng": -34.830544,
+  "ponto": "osm",
+  "rota": {
+   "km": 12.4,
+   "min": 17,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.0945,
+     -34.83653
+    ],
+    [
+     -7.09365,
+     -34.83818
+    ],
+    [
+     -7.08861,
+     -34.83846
+    ],
+    [
+     -7.08747,
+     -34.8395
+    ],
+    [
+     -7.08392,
+     -34.83996
+    ],
+    [
+     -7.0784,
+     -34.83941
+    ],
+    [
+     -7.07557,
+     -34.84152
+    ],
+    [
+     -7.05924,
+     -34.84565
+    ],
+    [
+     -7.05877,
+     -34.84376
+    ],
+    [
+     -7.04833,
+     -34.84238
+    ],
+    [
+     -7.03397,
+     -34.83683
+    ],
+    [
+     -7.03222,
+     -34.83448
+    ],
+    [
+     -7.02837,
+     -34.83207
+    ],
+    [
+     -7.02891,
+     -34.83071
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l10",
+  "topico": "lounges",
+  "nome": "Marujo Bar",
+  "area": "Cabedelo",
+  "texto": "Bar pé na areia na Ponta de Campina, bem avaliado e mais tranquilo que o Lovina.",
+  "dica": null,
+  "endereco": "Beira-mar de Ponta de Campina, Cabedelo - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": "Sexta a domingo e feriados (horário a confirmar)",
+  "fecha": null,
+  "place_id": "ChIJb-FIMEXerAcRysfWnYVCRMk",
+  "mare": false,
+  "instagram": "https://www.instagram.com/marujobar/",
+  "menu": null,
+  "alertas": [
+   "Confirme se abre em 31/12."
+  ],
+  "fotos": [],
+  "lat": -7.0278,
+  "lng": -34.8302,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 12.5,
+   "min": 17,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.0945,
+     -34.83653
+    ],
+    [
+     -7.09365,
+     -34.83818
+    ],
+    [
+     -7.08861,
+     -34.83846
+    ],
+    [
+     -7.08747,
+     -34.8395
+    ],
+    [
+     -7.08392,
+     -34.83996
+    ],
+    [
+     -7.0784,
+     -34.83941
+    ],
+    [
+     -7.07557,
+     -34.84152
+    ],
+    [
+     -7.05924,
+     -34.84565
+    ],
+    [
+     -7.05877,
+     -34.84376
+    ],
+    [
+     -7.04833,
+     -34.84238
+    ],
+    [
+     -7.03397,
+     -34.83683
+    ],
+    [
+     -7.03222,
+     -34.83448
+    ],
+    [
+     -7.02741,
+     -34.83144
+    ],
+    [
+     -7.02773,
+     -34.83037
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l12",
+  "topico": "lounges",
+  "nome": "Bar da Tainha",
+  "area": "Litoral Sul",
+  "texto": "Barraca pé na areia em Barra de Gramame, bem avaliada, no clima rústico do lugar.",
+  "dica": "Parada boa na ida ou volta do Litoral Sul.",
+  "endereco": "Barra de Gramame, Conde",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJdwGmEAvBrAcRN46x8deQTvc",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Pouca informação fora do Google: confirme se está aberto."
+  ],
+  "fotos": [],
+  "lat": -7.248429,
+  "lng": -34.836468,
+  "ponto": "conferir",
+  "rota": {
+   "km": 24.0,
+   "min": 31,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15217,
+     -34.81683
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21869,
+     -34.83532
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23813,
+     -34.84343
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.24943,
+     -34.82739
+    ],
+    [
+     -7.2521,
+     -34.82991
+    ],
+    [
+     -7.26122,
+     -34.83228
+    ],
+    [
+     -7.26041,
+     -34.83833
+    ],
+    [
+     -7.25662,
+     -34.83651
+    ],
+    [
+     -7.25181,
+     -34.83677
+    ],
+    [
+     -7.25081,
+     -34.83919
+    ],
+    [
+     -7.24831,
+     -34.83775
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l14",
+  "topico": "lounges",
+  "nome": "Praia Bela Sky Bar",
+  "area": "Pitimbu",
+  "texto": "Restaurante e bar em Praia Bela, com peixada e frutos do mar.",
+  "dica": "Vale combinar com um dia inteiro em Praia Bela.",
+  "endereco": "Av. Oceano Atlântico, Praia Bela, Pitimbu",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ9YNu4ei9rAcRTLGQ-b4AJdk",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.3967,
+  "lng": -34.8069,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 43.9,
+   "min": 45,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23764,
+     -34.84351
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.2789,
+     -34.80085
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.30375,
+     -34.81003
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33817,
+     -34.8099
+    ],
+    [
+     -7.34219,
+     -34.80318
+    ],
+    [
+     -7.35015,
+     -34.80399
+    ],
+    [
+     -7.35196,
+     -34.82016
+    ],
+    [
+     -7.37696,
+     -34.82277
+    ],
+    [
+     -7.38155,
+     -34.83003
+    ],
+    [
+     -7.39182,
+     -34.82178
+    ],
+    [
+     -7.39233,
+     -34.81457
+    ],
+    [
+     -7.39675,
+     -34.81116
+    ],
+    [
+     -7.39674,
+     -34.80697
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t1",
+  "topico": "passeios",
+  "nome": "Piscinas de Picãozinho",
+  "area": "Tambaú",
+  "texto": "O passeio clássico: banco de corais a 1,5 km de Tambaú, água morna e peixinhos em volta. Catamarãs com toboágua e bar a bordo, cerca de 3h.",
+  "dica": "Snorkel e fotos são cobrados à parte. Não pise nos corais.",
+  "endereco": "Embarque na Praia de Tambaú, João Pessoa",
+  "valor": "R$ 80 a R$ 99 por pessoa (catamarã, sem transfer)",
+  "valor_ref": "consultado em out/2026",
+  "faixa_google": false,
+  "horario": "Sem horário fixo: a saída segue a maré",
+  "fecha": null,
+  "place_id": "ChIJERrQjbXdrAcRprKjJqciDv4",
+  "mare": true,
+  "instagram": "https://www.instagram.com/embarcacaopirata/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t1-1.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Peixe_Mercador.jpg"
+   },
+   {
+    "arquivo": "fotos/t1-2.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Peixe_Barricudinha.jpg"
+   },
+   {
+    "arquivo": "fotos/t1-3.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Embarca%C3%A7%C3%A3o_Pirata_4.jpg"
+   },
+   {
+    "arquivo": "fotos/t1-4.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Embarca%C3%A7%C3%A3o_Pirata_2.jpg"
+   },
+   {
+    "arquivo": "fotos/t1-5.webp",
+    "autor": "Bruno Chacon Pessoa",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Carais_de_fogo_1.jpg"
+   }
+  ],
+  "lat": -7.115345,
+  "lng": -34.822294,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.4,
+   "min": 2,
+   "pe_min": 17,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11523,
+     -34.82276
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t2",
+  "topico": "passeios",
+  "nome": "Piscinas Naturais do Seixas",
+  "area": "Seixas",
+  "texto": "As piscinas do ponto mais oriental das Américas, maiores e geralmente menos lotadas que Picãozinho. Profundidade de 1 a 3 m.",
+  "dica": "Saindo do próprio Seixas a travessia é curta e sobra mais tempo na água.",
+  "endereco": "Embarque na Praia do Seixas ou na Praia de Tambaú, João Pessoa",
+  "valor": "A partir de R$ 80 por pessoa (catamarã) · a partir de R$ 150 com transfer e guia",
+  "valor_ref": "consultado em out/2026",
+  "faixa_google": false,
+  "horario": "Sem horário fixo: a saída segue a maré",
+  "fecha": null,
+  "place_id": "ChIJjxCIkXvDrAcR5ZZvLZYYT4Y",
+  "mare": true,
+  "instagram": "https://www.instagram.com/paraibanauticosjp",
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t2-1.webp",
+    "autor": "MTur Destinos",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_do_Seixas,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t2-2.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_Naturais_do_Seixas_-_Jo%C3%A3o_Pessoa_-_Pb._(13387132833).jpg"
+   },
+   {
+    "arquivo": "fotos/t2-3.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_naturais_do_Seixas,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t2-4.webp",
+    "autor": "MTur Destinos",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_naturais_do_Seixas_-_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t2-5.webp",
+    "autor": "Marinelson Almeida - Traveling through Brazil from Niteroi, Brasil",
+    "licenca": "CC BY 2.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Piscinas_Naturais_do_Seixas_-_Jo%C3%A3o_Pessoa_-_Pb._(13387156743).jpg"
+   }
+  ],
+  "lat": -7.15508,
+  "lng": -34.793309,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.9,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15519,
+     -34.79368
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t3",
+  "topico": "passeios",
+  "nome": "Ilha de Areia Vermelha",
+  "area": "Cabedelo",
+  "texto": "Banco de areia que surge no meio do mar na maré baixa e some em poucas horas. Água rasa, calma e bares flutuantes.",
+  "dica": "A ilha é grande e sempre tem um cantinho vazio.",
+  "endereco": "Embarque na Praia de Camboinha ou no Poço / Ponta de Campina, Cabedelo",
+  "valor": "A partir de R$ 80 por pessoa (só catamarã) · com transfer: R$ 180 por adulto até 25/12 e R$ 200 de 26/12 a 31/01",
+  "valor_ref": "tabela de fim de ano de 2026",
+  "faixa_google": false,
+  "horario": "Sem horário fixo: a saída segue a maré",
+  "fecha": null,
+  "place_id": "ChIJ_wA6lAffrAcRMQBE_Gclm3U",
+  "mare": true,
+  "instagram": "https://www.instagram.com/luckreceptivo/",
+  "menu": null,
+  "alertas": [
+   "Regras de 2026 proíbem som nos barcos. A visita noturna está em discussão. O passeio de dia segue normal."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/t3-1.webp",
+    "autor": "Luciano Dantas Bugarin",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Barcos_na_ilha_de_Areia_Vermelha.jpg"
+   },
+   {
+    "arquivo": "fotos/t3-2.webp",
+    "autor": "Taispalhares",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_areia_vermelha_x_tais_Palhares_(2).jpg"
+   },
+   {
+    "arquivo": "fotos/t3-3.webp",
+    "autor": "Taispalhares",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Ilha_areia_vermelha_x_taispalhares.jpg"
+   }
+  ],
+  "lat": -7.006813,
+  "lng": -34.825976,
+  "ponto": "conferir",
+  "rota": {
+   "km": 16.1,
+   "min": 19,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.0571,
+     -34.85063
+    ],
+    [
+     -7.05028,
+     -34.84944
+    ],
+    [
+     -7.00589,
+     -34.8292
+    ],
+    [
+     -7.00665,
+     -34.82602
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t4",
+  "topico": "passeios",
+  "nome": "Pôr do sol do Jacaré",
+  "area": "Cabedelo",
+  "texto": "Todo fim de tarde o Jurandy do Sax toca o Bolero de Ravel num barquinho no Rio Paraíba. Orla revitalizada, com calçadão e lojinhas de artesanato.",
+  "dica": "Reserve antes.",
+  "endereco": "Píer e orla da Praia do Jacaré, Cabedelo (PB)",
+  "valor": "R$ 90 por pessoa no barco · ver do deck: valor a confirmar",
+  "valor_ref": "valor de jan/2026",
+  "faixa_google": false,
+  "horario": "Barcos por volta das 16h · pôr do sol cerca de 17h30",
+  "fecha": null,
+  "place_id": "ChIJiSlKohverAcRs6qL-6MnGJE",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t4-1.webp",
+    "autor": "Dante Laurini Jr",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Por_do_Sol_na_Praia_do_Jacar%C3%A9.jpg"
+   },
+   {
+    "arquivo": "fotos/t4-2.webp",
+    "autor": "UsuárioPar",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Por_do_Sol_do_Jacare.JPG"
+   },
+   {
+    "arquivo": "fotos/t4-3.webp",
+    "autor": "Ruy Carvalho",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:P%C3%B4r_do_Sol_Praia_do_Jacar%C3%A9_-_PB.jpg"
+   },
+   {
+    "arquivo": "fotos/t4-4.webp",
+    "autor": "Charles Cooley",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:P%C3%B4r_do_Sol_-_Praia_do_Jacar%C3%A9_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t4-5.webp",
+    "autor": "Henrique Martins de Oliveira",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Por_do_sol_Praia_do_Jacar%C3%A9_-_JP.jpg"
+   }
+  ],
+  "lat": -7.039407,
+  "lng": -34.855299,
+  "ponto": "osm",
+  "rota": {
+   "km": 13.0,
+   "min": 18,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.05549,
+     -34.85059
+    ],
+    [
+     -7.05064,
+     -34.84945
+    ],
+    [
+     -7.04025,
+     -34.84474
+    ],
+    [
+     -7.04153,
+     -34.84611
+    ],
+    [
+     -7.03907,
+     -34.85526
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t5",
+  "topico": "passeios",
+  "nome": "Farol do Cabo Branco",
+  "area": "Seixas",
+  "texto": "Marco do Extremo Oriental das Américas, no alto da falésia. Mirante com vista da Ponta do Seixas e saguis por perto.",
+  "dica": "Fim de tarde com luz dourada é o melhor horário para foto.",
+  "endereco": "Falésia do Cabo Branco, João Pessoa (cerca de 800 m ao norte da Ponta do Seixas)",
+  "valor": "Grátis na área externa",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJDwG0NhXDrAcRJOWI3qiv8mU",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t5-1.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_FarolCaboBranco_Jo%C3%A3oPessoa_PB_(39994462855).jpg"
+   },
+   {
+    "arquivo": "fotos/t5-2.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_FarolCaboBranco_Jo%C3%A3oPessoa_PB_(27017893658).jpg"
+   },
+   {
+    "arquivo": "fotos/t5-3.webp",
+    "autor": "Thyago Medeiros",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Farol_ddo_Cabo_Branco.JPG"
+   },
+   {
+    "arquivo": "fotos/t5-4.webp",
+    "autor": "Ridiculopathy",
+    "licenca": "CC0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Apr2024._Cabo_Branco_Lighthouse_aka_Farol_do_Cabo_Branco,_Jo%C3%A3o_Pessoa,_state_of_Para%C3%ADba,_Brazil._05.jpg"
+   }
+  ],
+  "lat": -7.148837,
+  "lng": -34.79659,
+  "ponto": "osm",
+  "rota": {
+   "km": 5.4,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12628,
+     -34.82361
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.1375,
+     -34.81857
+    ],
+    [
+     -7.14255,
+     -34.81428
+    ],
+    [
+     -7.14477,
+     -34.81167
+    ],
+    [
+     -7.14612,
+     -34.80909
+    ],
+    [
+     -7.14559,
+     -34.80602
+    ],
+    [
+     -7.14615,
+     -34.80246
+    ],
+    [
+     -7.14654,
+     -34.80275
+    ],
+    [
+     -7.14638,
+     -34.80149
+    ],
+    [
+     -7.14673,
+     -34.79919
+    ],
+    [
+     -7.15006,
+     -34.79873
+    ],
+    [
+     -7.15004,
+     -34.79729
+    ],
+    [
+     -7.14881,
+     -34.79637
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t6",
+  "topico": "passeios",
+  "nome": "Estação Cabo Branco",
+  "area": "Seixas",
+  "texto": "Projeto de Oscar Niemeyer com exposições de ciência e arte e mirante. Programa de 1h a 2h, bom pra dia nublado.",
+  "dica": "Avaliações citam áreas em manutenção. Combine com o Farol, que fica ao lado.",
+  "endereco": "Av. João Cirillo da Silva, Altiplano Cabo Branco, João Pessoa",
+  "valor": "Grátis",
+  "valor_ref": "informação de jan/2026",
+  "faixa_google": false,
+  "horario": "Terça a sexta, 9h às 18h · sábado e domingo, 10h às 18h",
+  "fecha": "Fecha segunda",
+  "place_id": "ChIJhSiobRXDrAcRMwBi0rdBi0g",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Obras na climatização e no teatro até dezembro. Confirme se está aberta antes de ir."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/t6-1.webp",
+    "autor": "Robotmensch",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_Cabo_Branco,_2006.jpg"
+   },
+   {
+    "arquivo": "fotos/t6-2.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_Esta%C3%A7%C3%A3oCi%C3%AAncias_Jo%C3%A3oPessoa_PB_(40888015271).jpg"
+   },
+   {
+    "arquivo": "fotos/t6-3.webp",
+    "autor": "enioprado",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Esta%C3%A7%C3%A3o_Cabo_Branco_-_panoramio.jpg"
+   }
+  ],
+  "lat": -7.148735,
+  "lng": -34.798051,
+  "ponto": "osm",
+  "rota": {
+   "km": 5.4,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12628,
+     -34.82361
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.1413,
+     -34.81542
+    ],
+    [
+     -7.14464,
+     -34.81185
+    ],
+    [
+     -7.14611,
+     -34.80913
+    ],
+    [
+     -7.14559,
+     -34.80602
+    ],
+    [
+     -7.14615,
+     -34.80246
+    ],
+    [
+     -7.14654,
+     -34.80275
+    ],
+    [
+     -7.14665,
+     -34.79935
+    ],
+    [
+     -7.147,
+     -34.79904
+    ],
+    [
+     -7.14995,
+     -34.79886
+    ],
+    [
+     -7.15001,
+     -34.79723
+    ],
+    [
+     -7.14965,
+     -34.79731
+    ],
+    [
+     -7.14964,
+     -34.79796
+    ],
+    [
+     -7.14903,
+     -34.79803
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t7",
+  "topico": "passeios",
+  "nome": "Nascer do sol na Ponta do Seixas",
+  "area": "Seixas",
+  "texto": "O primeiro nascer do sol das Américas. Programa curto de madrugada e marcante pro grupo.",
+  "dica": "Combine ida e volta antes: não sabemos se o local é iluminado.",
+  "endereco": "Ponta do Seixas, João Pessoa (cerca de 14 km do centro)",
+  "valor": "Grátis (praia pública)",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": "O sol nasce por volta das 5h em dezembro e janeiro",
+  "fecha": null,
+  "place_id": "ChIJSaZ9YpfDrAcRev11mnpgN-g",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t7-1.webp",
+    "autor": "Rafa Tecchio",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:PB_-_Jo%C3%A3o_Pessoa_-_Nascer_do_Sol_-_Ponta_do_Seixas_3.jpg"
+   }
+  ],
+  "lat": -7.15508,
+  "lng": -34.793309,
+  "ponto": "osm",
+  "rota": {
+   "km": 9.9,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15519,
+     -34.79368
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t8",
+  "topico": "passeios",
+  "nome": "Centro Cultural São Francisco",
+  "area": "Centro",
+  "texto": "Um dos complexos barrocos mais importantes do Brasil: igreja, convento, claustro e arte sacra. Visita guiada de cerca de 40 minutos.",
+  "dica": "Visitas guiadas às 10h, 11h30, 14h e 15h30. Não há ponto de ônibus em frente.",
+  "endereco": "Ladeira São Francisco, s/n, Centro, João Pessoa, CEP 58010-650",
+  "valor": "R$ 24 inteira · R$ 12 meia · grátis até 7 anos",
+  "valor_ref": "site oficial, out/2026",
+  "faixa_google": false,
+  "horario": "Terça a sábado, 9h às 17h · domingo, 9h às 15h",
+  "fecha": "Fecha segunda",
+  "place_id": "ChIJr9MTpufnrAcR6G3QdgVJWZs",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t8-1.webp",
+    "autor": "AndreiaSolha",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Centro_Cultural_S%C3%A3o_Francisco_-_Jo%C3%A3o_Pessoa_-_20220924150052.jpg"
+   },
+   {
+    "arquivo": "fotos/t8-2.webp",
+    "autor": "Vinicius Luis da Costa Zorzella",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Arte_De_Jesus_Feita_De_Azulejos_No_P%C3%A1tio_De_Entrada_Da_Igreja_De_Santo_Ant%C3%B4nio.jpg"
+   },
+   {
+    "arquivo": "fotos/t8-3.webp",
+    "autor": "Rogerio121402",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Centro_Cultural_S%C3%A3o_Francisco_Jo%C3%A3o_Pessoa_PB_BR.jpg"
+   },
+   {
+    "arquivo": "fotos/t8-4.webp",
+    "autor": "Kerbrie",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Interior_da_Igreja_de_S%C3%A3o_Francisco_de_Assis.jpg"
+   }
+  ],
+  "lat": -7.114588,
+  "lng": -34.882545,
+  "ponto": "osm",
+  "rota": {
+   "km": 8.2,
+   "min": 12,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12428,
+     -34.83105
+    ],
+    [
+     -7.12538,
+     -34.83465
+    ],
+    [
+     -7.12575,
+     -34.83972
+    ],
+    [
+     -7.12474,
+     -34.84692
+    ],
+    [
+     -7.12229,
+     -34.84694
+    ],
+    [
+     -7.12256,
+     -34.85604
+    ],
+    [
+     -7.12137,
+     -34.85896
+    ],
+    [
+     -7.11869,
+     -34.85907
+    ],
+    [
+     -7.11868,
+     -34.86801
+    ],
+    [
+     -7.11524,
+     -34.87418
+    ],
+    [
+     -7.11594,
+     -34.87577
+    ],
+    [
+     -7.11513,
+     -34.8797
+    ],
+    [
+     -7.11571,
+     -34.88188
+    ],
+    [
+     -7.11453,
+     -34.88105
+    ],
+    [
+     -7.11324,
+     -34.88185
+    ],
+    [
+     -7.11461,
+     -34.88234
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t9",
+  "topico": "passeios",
+  "nome": "Hotel Globo e Praça Antenor Navarro",
+  "area": "Centro",
+  "texto": "O antigo Hotel Globo, de 1928, virou museu e centro cultural, com vista do rio no Centro Histórico.",
+  "dica": "Vá de dia. A praça do entorno rende boas fotos.",
+  "endereco": "Largo de São Frei Pedro Gonçalves (Praça São Pedro Gonçalves), Varadouro, João Pessoa",
+  "valor": "Grátis",
+  "valor_ref": "informação de jan/2026",
+  "faixa_google": false,
+  "horario": "Todos os dias, até 17h",
+  "fecha": null,
+  "place_id": "ChIJD7HJttznrAcRGsy60K2wwlQ",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Fecha às 17h, antes do pôr do sol de dezembro."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/t9-1.webp",
+    "autor": "Noelia Brito",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:HOTEL_GLOBO_JO%C3%83O_PESSOA.jpg"
+   },
+   {
+    "arquivo": "fotos/t9-2.webp",
+    "autor": "Lionel Baur",
+    "licenca": "CC BY 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Hotel_Globo,_Joao_Pessoa.jpg"
+   },
+   {
+    "arquivo": "fotos/t9-3.webp",
+    "autor": "Ajmcbarreto",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Hotel_Globo_Jo%C3%A3o_Pessoa_-_2.jpg"
+   },
+   {
+    "arquivo": "fotos/t9-4.webp",
+    "autor": "Ajmcbarreto",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Hotel_Globo_Jo%C3%A3o_Pessoa_-_3.jpg"
+   }
+  ],
+  "lat": -7.112694,
+  "lng": -34.888682,
+  "ponto": "osm",
+  "rota": {
+   "km": 8.8,
+   "min": 13,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12428,
+     -34.83105
+    ],
+    [
+     -7.12538,
+     -34.83465
+    ],
+    [
+     -7.12572,
+     -34.83997
+    ],
+    [
+     -7.12474,
+     -34.84692
+    ],
+    [
+     -7.12229,
+     -34.84694
+    ],
+    [
+     -7.12256,
+     -34.85604
+    ],
+    [
+     -7.12137,
+     -34.85896
+    ],
+    [
+     -7.11869,
+     -34.85907
+    ],
+    [
+     -7.11866,
+     -34.86814
+    ],
+    [
+     -7.11524,
+     -34.87418
+    ],
+    [
+     -7.11594,
+     -34.87577
+    ],
+    [
+     -7.11513,
+     -34.8797
+    ],
+    [
+     -7.11571,
+     -34.88174
+    ],
+    [
+     -7.11526,
+     -34.88409
+    ],
+    [
+     -7.11599,
+     -34.88434
+    ],
+    [
+     -7.11589,
+     -34.88505
+    ],
+    [
+     -7.11655,
+     -34.88728
+    ],
+    [
+     -7.11388,
+     -34.88866
+    ],
+    [
+     -7.11329,
+     -34.88825
+    ],
+    [
+     -7.11276,
+     -34.88882
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t10",
+  "topico": "passeios",
+  "nome": "Parque da Lagoa",
+  "area": "Centro",
+  "texto": "O Parque Sólon de Lucena, cartão-postal do Centro, com a lagoa cercada de palmeiras imperiais.",
+  "dica": "Passada rápida de dia, no caminho do Centro Histórico.",
+  "endereco": "Parque Sólon de Lucena, Centro, João Pessoa",
+  "valor": "Grátis (parque público)",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJzzepceHnrAcRUNZlEEJ2EFo",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Moradores relatam insegurança à noite e equipamentos quebrados."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/t10-1.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_-_Parque_Solon_de_Lucena_-_panoramio_(2).jpg"
+   },
+   {
+    "arquivo": "fotos/t10-2.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_-_Parque_Solon_de_Lucena_-_panoramio_(4).jpg"
+   },
+   {
+    "arquivo": "fotos/t10-3.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Lagoa_-_Parque_Solon_de_Lucena_-_panoramio_(7).jpg"
+   },
+   {
+    "arquivo": "fotos/t10-4.webp",
+    "autor": "Zelma Brito",
+    "licenca": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Palmeiras_do_Parque_Solon_de_Lucena_-_panoramio.jpg"
+   },
+   {
+    "arquivo": "fotos/t10-5.webp",
+    "autor": "Ajmcbarreto",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Parque_Solon_de_Lucena_-_1.jpg"
+   }
+  ],
+  "lat": -7.120229,
+  "lng": -34.87984,
+  "ponto": "osm",
+  "rota": {
+   "km": 8.5,
+   "min": 10,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12428,
+     -34.83105
+    ],
+    [
+     -7.12529,
+     -34.83421
+    ],
+    [
+     -7.12548,
+     -34.83676
+    ],
+    [
+     -7.12448,
+     -34.83656
+    ],
+    [
+     -7.12892,
+     -34.83716
+    ],
+    [
+     -7.12956,
+     -34.8442
+    ],
+    [
+     -7.13218,
+     -34.84609
+    ],
+    [
+     -7.13479,
+     -34.84941
+    ],
+    [
+     -7.13685,
+     -34.85046
+    ],
+    [
+     -7.13765,
+     -34.8535
+    ],
+    [
+     -7.13445,
+     -34.8599
+    ],
+    [
+     -7.13377,
+     -34.8602
+    ],
+    [
+     -7.13264,
+     -34.85935
+    ],
+    [
+     -7.13018,
+     -34.86008
+    ],
+    [
+     -7.12992,
+     -34.86169
+    ],
+    [
+     -7.1268,
+     -34.86828
+    ],
+    [
+     -7.12637,
+     -34.86848
+    ],
+    [
+     -7.12652,
+     -34.86897
+    ],
+    [
+     -7.12462,
+     -34.87284
+    ],
+    [
+     -7.12161,
+     -34.87698
+    ],
+    [
+     -7.12116,
+     -34.87832
+    ],
+    [
+     -7.12067,
+     -34.87822
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t11",
+  "topico": "passeios",
+  "nome": "Fortaleza de Santa Catarina",
+  "area": "Cabedelo",
+  "texto": "Forte colonial tombado pelo patrimônio nacional, na entrada do Rio Paraíba. Boa história e vista do mar.",
+  "dica": "Combina com Camboinha de manhã e Jacaré no fim da tarde.",
+  "endereco": "Cabedelo (PB)",
+  "valor": "R$ 4 por pessoa",
+  "valor_ref": "valor de jan/2026",
+  "faixa_google": false,
+  "horario": "Todos os dias, 9h às 17h",
+  "fecha": null,
+  "place_id": "ChIJ-UKCK20grQcRKq3pX4bQMIw",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t11-1.webp",
+    "autor": "Ruy Carvalho",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:1RC_9857.jpg"
+   },
+   {
+    "arquivo": "fotos/t11-2.webp",
+    "autor": "Dlaurini",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Cabedelo-2.jpg"
+   },
+   {
+    "arquivo": "fotos/t11-3.webp",
+    "autor": "Cacio Murilo/MTur",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:CacioMurilo_Forteleza_Sta_Catarina_Cabedelo_PB_(39079050070).jpg"
+   },
+   {
+    "arquivo": "fotos/t11-4.webp",
+    "autor": "User:Stigmj",
+    "licenca": "Public domain",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Fortaleza_Santa_Catarina-Barracks_and_commanders_house.jpg"
+   },
+   {
+    "arquivo": "fotos/t11-5.webp",
+    "autor": "Rodrigo Pinheiro",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Forte_de_Santa_Catarina_do_Cabedelo_-_Cabedelo_-_20200306111026.jpg"
+   }
+  ],
+  "lat": -6.97324,
+  "lng": -34.835161,
+  "ponto": "osm",
+  "rota": {
+   "km": 19.8,
+   "min": 23,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.09807,
+     -34.84741
+    ],
+    [
+     -7.09327,
+     -34.84812
+    ],
+    [
+     -7.05339,
+     -34.85033
+    ],
+    [
+     -7.00831,
+     -34.83035
+    ],
+    [
+     -7.00133,
+     -34.82839
+    ],
+    [
+     -6.9848,
+     -34.82903
+    ],
+    [
+     -6.97301,
+     -34.83243
+    ],
+    [
+     -6.97294,
+     -34.83514
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t12",
+  "topico": "passeios",
+  "nome": "Trilha dos Mirantes (buggy ou quadri)",
+  "area": "Litoral Sul",
+  "texto": "Trilha de 1h30 pelo alto das falésias, com Dedo de Deus, Mirante das Tartarugas e Castelo da Princesa. A foto mais famosa da Paraíba.",
+  "dica": "Buggies e quadris são disputados no fim de semana. Reserve antes. As notas do Google são do Mirante Dedo de Deus, uma das paradas da trilha.",
+  "endereco": "Saída da Praia de Coqueirinho, Conde (PB), a cerca de 37 km de João Pessoa",
+  "valor": "Quadriciclo de R$ 150 a R$ 220 por veículo · buggy R$ 300 por veículo",
+  "valor_ref": "consultado em out/2026",
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJVRqhC-m-rAcRotTAutAn9gU",
+  "mare": false,
+  "instagram": "https://www.instagram.com/paraibanauticosjp",
+  "menu": null,
+  "alertas": [
+   "O Castelo da Princesa depende da maré."
+  ],
+  "fotos": [],
+  "lat": -7.329783,
+  "lng": -34.795357,
+  "ponto": "osm",
+  "rota": {
+   "km": 34.3,
+   "min": 39,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23796,
+     -34.84348
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25353,
+     -34.81131
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27944,
+     -34.80079
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29032,
+     -34.80624
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.3036,
+     -34.81001
+    ],
+    [
+     -7.31174,
+     -34.80954
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33365,
+     -34.80989
+    ],
+    [
+     -7.3342,
+     -34.80313
+    ],
+    [
+     -7.32963,
+     -34.79851
+    ],
+    [
+     -7.32986,
+     -34.79558
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t13",
+  "topico": "passeios",
+  "nome": "Praia do Amor e Pedra Furada",
+  "area": "Litoral Sul",
+  "texto": "A praia famosa pela pedra furada, parada clássica dos passeios de buggy do Litoral Sul.",
+  "dica": "Rende foto em grupo dentro do arco da pedra.",
+  "endereco": "Praia do Amor, Jacumã, Conde (PB), a cerca de 30 km de João Pessoa",
+  "valor": "Grátis (praia pública)",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJcxApJpLArAcRxpCMa2Rhx4w",
+  "mare": true,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "A Pedra Furada só fica acessível com maré baixa."
+  ],
+  "fotos": [
+   {
+    "arquivo": "fotos/t13-1.webp",
+    "autor": "Matheus Jampa da Silva",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Pedra_furada_na_praia_do_amor_na_paraiba.jpg"
+   },
+   {
+    "arquivo": "fotos/t13-2.webp",
+    "autor": "Matheus Jampa da Silva",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Praia_do_amor_conde_paraiba.jpg"
+   }
+  ],
+  "lat": -7.27,
+  "lng": -34.8,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 25.2,
+   "min": 28,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23796,
+     -34.84348
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27133,
+     -34.80371
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t15",
+  "topico": "passeios",
+  "nome": "Feirinha de Artesanato de Tambaú",
+  "area": "Tambaú",
+  "texto": "Cerca de 45 boxes com artesanato e comida típica, como cuscuz, carne de sol e tapioca. À noite é o centro do movimento da orla.",
+  "dica": "Jante uma tapioca e emende com o calçadão de Tambaú.",
+  "endereco": "Av. Almirante Tamandaré, s/n, Tambaú, João Pessoa",
+  "valor": "Entrada grátis · artesanato e comida à parte",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ_1AQZSHdrAcRIRsT430IK4M",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [
+   {
+    "arquivo": "fotos/t15-1.webp",
+    "autor": "Marcos Elias de Oliveira Júnior",
+    "licenca": "CC0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Letreiro_da_Feirinha_de_Tamba%C3%BA,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t15-2.webp",
+    "autor": "Marcos Elias de Oliveira Júnior",
+    "licenca": "CC0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Feirinha_de_Artesanato_de_Tamba%C3%BA,_Jo%C3%A3o_Pessoa_(PB).jpg"
+   },
+   {
+    "arquivo": "fotos/t15-3.webp",
+    "autor": "Ajmcbarreto",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Feirinha_de_Artesanato_de_Tamba%C3%BA_-_02.jpg"
+   },
+   {
+    "arquivo": "fotos/t15-4.webp",
+    "autor": "Ajmcbarreto",
+    "licenca": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Feirinha_de_Artesanato_de_Tamba%C3%BA_-_06.jpg"
+   }
+  ],
+  "lat": -7.116647,
+  "lng": -34.823105,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.3,
+   "min": 2,
+   "pe_min": 15,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12216,
+     -34.82507
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11665,
+     -34.8231
+    ]
+   ]
+  }
+ },
+ {
+  "id": "t16",
+  "topico": "passeios",
+  "nome": "Centro de Artesanato Júlio Rafael",
+  "area": "Tambaú",
+  "texto": "Cerca de 20 lojas com algodão colorido, bordado e renda renascença. Bom pra presente de verdade, não só lembrancinha.",
+  "dica": "Deixe pro último dia, pra não carregar sacola a semana inteira.",
+  "endereco": "Tambaú, João Pessoa",
+  "valor": "Entrada grátis",
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJddHxLSLdrAcRxxf6Gx1IP4w",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Confirme o endereço antes de ir: as fontes não batem."
+  ],
+  "fotos": [],
+  "lat": -7.115343,
+  "lng": -34.825746,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.7,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11622,
+     -34.82499
+    ],
+    [
+     -7.11582,
+     -34.82675
+    ],
+    [
+     -7.11395,
+     -34.82635
+    ],
+    [
+     -7.11409,
+     -34.82541
+    ],
+    [
+     -7.11535,
+     -34.82571
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a1",
+  "topico": "almoco",
+  "nome": "DanadoDBom",
+  "area": "Tambaú",
+  "texto": "Comida nordestina caseira em Tambaú, entre as mais bem avaliadas da região. Almoço de verdade, bem servido.",
+  "dica": "Vá cedo, perto das 12h, que enche.",
+  "endereco": "Av. Nego, 255, Tambaú, João Pessoa - PB, 58039-101",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Terça a domingo, 11h às 16h (salão, retirada e entrega)",
+  "fecha": "Fecha segunda",
+  "place_id": "ChIJv4uKwL3drAcR6g2uJjoneAw",
+  "mare": false,
+  "instagram": "https://www.instagram.com/danadodbomjpofc/",
+  "menu": "https://drive.google.com/file/d/1pJSkRMYQmA2KeiKH7DCuxcyYUyesyWaP/view",
+  "alertas": [
+   "Jantar só em datas avisadas no Instagram."
+  ],
+  "fotos": [],
+  "lat": -7.114414,
+  "lng": -34.824992,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.6,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11622,
+     -34.82499
+    ],
+    [
+     -7.11582,
+     -34.82675
+    ],
+    [
+     -7.11395,
+     -34.82635
+    ],
+    [
+     -7.11418,
+     -34.82495
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a2",
+  "topico": "almoco",
+  "nome": "Maria Bonita",
+  "area": "Tambaú",
+  "texto": "Buffet com muita variedade e atendimento muito elogiado. Abre do café ao jantar.",
+  "dica": "Bom pro café da manhã reforçado antes de passeio.",
+  "endereco": "Av. Antônio Lira, 756, Tambaú",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJb8sFBgDdrAcRgmUONrT1YS4",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.113313,
+  "lng": -34.823748,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.0,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11398,
+     -34.82247
+    ],
+    [
+     -7.11339,
+     -34.82248
+    ],
+    [
+     -7.11195,
+     -34.82294
+    ],
+    [
+     -7.11221,
+     -34.82387
+    ],
+    [
+     -7.11331,
+     -34.82375
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a3",
+  "topico": "almoco",
+  "nome": "Olho de Lula",
+  "area": "Cabo Branco",
+  "texto": "Frutos do mar pé na areia na Av. Cabo Branco, a mesma do hotel, com vista da praia e atendimento elogiado.",
+  "dica": "Peixe na brasa com três acompanhamentos rende pra dividir.",
+  "endereco": "Av. Cabo Branco, 2300",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJCbNMPNTCrAcR7VonoRRaU_M",
+  "mare": false,
+  "instagram": "https://www.instagram.com/restauranteolhodelula/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.130114,
+  "lng": -34.822588,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.1,
+   "min": 2,
+   "pe_min": 13,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12484,
+     -34.82385
+    ],
+    [
+     -7.12735,
+     -34.82338
+    ],
+    [
+     -7.13006,
+     -34.82245
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a4",
+  "topico": "almoco",
+  "nome": "Bar do Cuscuz",
+  "area": "Cabo Branco",
+  "texto": "Casa nordestina enorme e tradicional na orla, com cuscuz, carne de sol na nata e caldinhos. Clima animado, ótimo pra grupo.",
+  "dica": "Peça o caldinho de feijoada de entrada.",
+  "endereco": "Av. Cabo Branco, 3056, Cabo Branco, João Pessoa - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": "Todo dia, 11h à 1h",
+  "fecha": null,
+  "place_id": "ChIJLZlnH9jCrAcR3HT36AW0lNA",
+  "mare": false,
+  "instagram": "https://www.instagram.com/bardocuscuzjp/",
+  "menu": null,
+  "alertas": [
+   "A Justiça aceitou denúncia ambiental em 2026. O bar segue funcionando."
+  ],
+  "fotos": [],
+  "lat": -7.136578,
+  "lng": -34.819695,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.9,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1247,
+     -34.82387
+    ],
+    [
+     -7.12735,
+     -34.82338
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.13677,
+     -34.81958
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a5",
+  "topico": "almoco",
+  "nome": "Bar da Orla (BDO)",
+  "area": "Cabo Branco",
+  "texto": "Restaurante na orla do Cabo Branco com ótimo custo-benefício. Camarão e filé muito elogiados.",
+  "dica": "Fica no caminho do Seixas.",
+  "endereco": "Av. Cabo Branco, 3722",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todo dia, 11h à meia-noite",
+  "fecha": null,
+  "place_id": "ChIJCbXtyD7DrAcREtZ7RfUoXhk",
+  "mare": false,
+  "instagram": "https://www.instagram.com/bardaorlajp/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.141159,
+  "lng": -34.81571,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.5,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12628,
+     -34.82361
+    ],
+    [
+     -7.12858,
+     -34.82301
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.14107,
+     -34.81561
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a6",
+  "topico": "almoco",
+  "nome": "Senhor do Peixe",
+  "area": "Seixas",
+  "texto": "Frutos do mar pé na areia na Praia do Seixas. Almoço perfeito depois das piscinas naturais.",
+  "dica": "Reserve o almoço antes de embarcar: WhatsApp (83) 99342-0631.",
+  "endereco": "Praia do Seixas, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todo dia, 11h às 16h",
+  "fecha": null,
+  "place_id": "ChIJhQSqj5vDrAcRUKUbuYy3LNQ",
+  "mare": false,
+  "instagram": "https://www.instagram.com/senhordopeixe/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.154016,
+  "lng": -34.79352,
+  "ponto": "osm",
+  "rota": {
+   "km": 10.0,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12764,
+     -34.82896
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.12867,
+     -34.82824
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.13455,
+     -34.82323
+    ],
+    [
+     -7.13882,
+     -34.82034
+    ],
+    [
+     -7.14337,
+     -34.81634
+    ],
+    [
+     -7.14447,
+     -34.81726
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15372,
+     -34.8178
+    ],
+    [
+     -7.15465,
+     -34.81882
+    ],
+    [
+     -7.15588,
+     -34.81914
+    ],
+    [
+     -7.16024,
+     -34.81898
+    ],
+    [
+     -7.16058,
+     -34.81979
+    ],
+    [
+     -7.16043,
+     -34.81491
+    ],
+    [
+     -7.16071,
+     -34.80833
+    ],
+    [
+     -7.16124,
+     -34.80139
+    ],
+    [
+     -7.16201,
+     -34.80068
+    ],
+    [
+     -7.16125,
+     -34.80034
+    ],
+    [
+     -7.16116,
+     -34.79777
+    ],
+    [
+     -7.15914,
+     -34.79663
+    ],
+    [
+     -7.15966,
+     -34.79503
+    ],
+    [
+     -7.15555,
+     -34.79362
+    ],
+    [
+     -7.15432,
+     -34.79407
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a7",
+  "topico": "almoco",
+  "nome": "Mangai",
+  "area": "Manaíra",
+  "texto": "Buffet nordestino, referência na cidade, com dezenas de pratos regionais e doces típicos.",
+  "dica": "Pergunte antes de se servir se é por quilo ou preço fixo.",
+  "endereco": "Av. Gen. Edson Ramalho, 696, Manaíra, João Pessoa - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJQ3ocKRfdrAcRoTiNLHZAONo",
+  "mare": false,
+  "instagram": "https://www.instagram.com/mangaioficial/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.103216,
+  "lng": -34.832028,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.3,
+   "min": 5,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11212,
+     -34.82487
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.10245,
+     -34.83354
+    ],
+    [
+     -7.10215,
+     -34.83292
+    ],
+    [
+     -7.1033,
+     -34.83217
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a8",
+  "topico": "almoco",
+  "nome": "NAU Frutos do Mar",
+  "area": "Manaíra",
+  "texto": "Um dos restaurantes de frutos do mar mais comentados da cidade, ambiente bonito e cardápio amplo.",
+  "dica": "À noite costuma ter espera. Vá cedo.",
+  "endereco": "R. Lupércio Branco, 130, Manaíra, João Pessoa - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJe-c1LCPdrAcR5Z11M-uVoTM",
+  "mare": false,
+  "instagram": "https://www.instagram.com/naufrutosdomar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.110622,
+  "lng": -34.829149,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.6,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10927,
+     -34.82785
+    ],
+    [
+     -7.10858,
+     -34.82844
+    ],
+    [
+     -7.10982,
+     -34.83008
+    ],
+    [
+     -7.11029,
+     -34.82962
+    ],
+    [
+     -7.11073,
+     -34.82936
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a9",
+  "topico": "almoco",
+  "nome": "Canoa dos Camarões",
+  "area": "Manaíra",
+  "texto": "Especializado em camarão, muito procurado por grupos. Pratos fartos pra dividir.",
+  "dica": "Fica perto do Maré Alta: se um lotar, vá no outro.",
+  "endereco": "Av. João Maurício, 121, Manaíra",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJI4YBESLdrAcR4jXKdOPgyGo",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.109321,
+  "lng": -34.824771,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.0,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.1092,
+     -34.82466
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a10",
+  "topico": "almoco",
+  "nome": "Restaurante Maré Alta",
+  "area": "Manaíra",
+  "texto": "Frutos do mar na orla de Manaíra, com milhares de avaliações e vista do mar.",
+  "dica": "Fica perto do Canoa: se um lotar, vá no outro.",
+  "endereco": "Av. João Maurício, 305, Manaíra, João Pessoa - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Almoço todo dia, 11h às 15h30 · jantar de terça a sábado",
+  "fecha": null,
+  "place_id": "ChIJ92mchBjdrAcR4Bm7erNb8uo",
+  "mare": false,
+  "instagram": "https://www.instagram.com/restaurantemarealta/",
+  "menu": null,
+  "alertas": [
+   "Sem jantar no domingo e na segunda."
+  ],
+  "fotos": [],
+  "lat": -7.102973,
+  "lng": -34.830724,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.0,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10642,
+     -34.82786
+    ],
+    [
+     -7.1046,
+     -34.82952
+    ],
+    [
+     -7.10297,
+     -34.83072
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a11",
+  "topico": "almoco",
+  "nome": "Camarada Camarão",
+  "area": "MAG Shopping",
+  "texto": "Um dos restaurantes mais procurados da cidade, especializado em frutos do mar, com música ao vivo.",
+  "dica": "Fila à noite é comum. Chegue antes das 19h30.",
+  "endereco": "Dentro do MAG Shopping, João Pessoa - PB (rua e número não confirmados fora do Google)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJwReElvrdrAcRuqiB50KusS8",
+  "mare": false,
+  "instagram": "https://www.instagram.com/camaradacamaraojoaopessoa/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.0975,
+  "lng": -34.8333,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 3.7,
+   "min": 5,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10642,
+     -34.82786
+    ],
+    [
+     -7.10434,
+     -34.82973
+    ],
+    [
+     -7.10107,
+     -34.83196
+    ],
+    [
+     -7.09992,
+     -34.83248
+    ],
+    [
+     -7.09748,
+     -34.83322
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a12",
+  "topico": "almoco",
+  "nome": "Bistrô 17",
+  "area": "Centro",
+  "texto": "Bistrô no Centro, prático pra almoçar entre uma visita e outra do Centro Histórico.",
+  "dica": "Fica a poucos minutos do São Francisco.",
+  "endereco": "R. Conselheiro Henrique, 17, Centro",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJq1_1xhDdrAcRUDfwZ51j_6E",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.1161,
+  "lng": -34.8842,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 8.0,
+   "min": 11,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12428,
+     -34.83105
+    ],
+    [
+     -7.12538,
+     -34.83465
+    ],
+    [
+     -7.12575,
+     -34.83972
+    ],
+    [
+     -7.12474,
+     -34.84692
+    ],
+    [
+     -7.12229,
+     -34.84694
+    ],
+    [
+     -7.12256,
+     -34.85604
+    ],
+    [
+     -7.12137,
+     -34.85896
+    ],
+    [
+     -7.11869,
+     -34.85907
+    ],
+    [
+     -7.11866,
+     -34.86814
+    ],
+    [
+     -7.11524,
+     -34.87418
+    ],
+    [
+     -7.11594,
+     -34.87577
+    ],
+    [
+     -7.11513,
+     -34.8797
+    ],
+    [
+     -7.11571,
+     -34.88174
+    ],
+    [
+     -7.11526,
+     -34.88409
+    ],
+    [
+     -7.11621,
+     -34.88422
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a14",
+  "topico": "almoco",
+  "nome": "Numar Bar e Restaurante",
+  "area": "Cabedelo",
+  "texto": "Restaurante na orla de Intermares, bem avaliado. Serve almoço e jantar.",
+  "dica": "Boa opção na volta do pôr do sol do Jacaré.",
+  "endereco": "Av. Oceano, Intermares, Cabedelo - PB (número não confirmado fora do Google)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Segunda a sábado, 11h à meia-noite · domingo, 11h às 21h",
+  "fecha": null,
+  "place_id": "ChIJ29wxE1zfrAcRAXclbUaSW8w",
+  "mare": false,
+  "instagram": "https://www.instagram.com/numarbarintermares/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.042114,
+  "lng": -34.841178,
+  "ponto": "osm",
+  "rota": {
+   "km": 10.7,
+   "min": 16,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.0945,
+     -34.83653
+    ],
+    [
+     -7.09353,
+     -34.83822
+    ],
+    [
+     -7.08861,
+     -34.83846
+    ],
+    [
+     -7.08747,
+     -34.8395
+    ],
+    [
+     -7.08392,
+     -34.83996
+    ],
+    [
+     -7.0784,
+     -34.83941
+    ],
+    [
+     -7.07557,
+     -34.84152
+    ],
+    [
+     -7.05924,
+     -34.84565
+    ],
+    [
+     -7.05877,
+     -34.84376
+    ],
+    [
+     -7.04537,
+     -34.84151
+    ],
+    [
+     -7.04514,
+     -34.84203
+    ],
+    [
+     -7.04138,
+     -34.84035
+    ],
+    [
+     -7.04211,
+     -34.84118
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a15",
+  "topico": "almoco",
+  "nome": "Rocha Mar",
+  "area": "Litoral Sul",
+  "texto": "Restaurante em Coqueirinho de frente pras falésias, com vista do mar e comida bem feita.",
+  "dica": "Forma fila no fim de semana. Chegue antes das 12h.",
+  "endereco": "Praia de Coqueirinho, Conde - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todo dia, 10h às 16h",
+  "fecha": null,
+  "place_id": "ChIJiQYzPjS_rAcRWLcV7NN36NI",
+  "mare": false,
+  "instagram": "https://www.instagram.com/restauranterochamar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.329783,
+  "lng": -34.795357,
+  "ponto": "osm",
+  "rota": {
+   "km": 34.3,
+   "min": 39,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23796,
+     -34.84348
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25353,
+     -34.81131
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27944,
+     -34.80079
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29032,
+     -34.80624
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.3036,
+     -34.81001
+    ],
+    [
+     -7.31174,
+     -34.80954
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33365,
+     -34.80989
+    ],
+    [
+     -7.3342,
+     -34.80313
+    ],
+    [
+     -7.32963,
+     -34.79851
+    ],
+    [
+     -7.32986,
+     -34.79558
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a16",
+  "topico": "almoco",
+  "nome": "Turek Grelhados",
+  "area": "Litoral Sul",
+  "texto": "Grelhados e comida brasileira em Jacumã, um dos mais bem avaliados do Litoral Sul.",
+  "dica": "Bom pra almoço tardio na volta das praias.",
+  "endereco": "PB-008, km 23, Carapibus, Conde - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJWSW-CQ6_rAcRqSozSQzpjHU",
+  "mare": false,
+  "instagram": "https://www.instagram.com/turek.grelhados.bar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.2968,
+  "lng": -34.8082,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 28.2,
+   "min": 30,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23781,
+     -34.8435
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25343,
+     -34.81137
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27928,
+     -34.80079
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29064,
+     -34.80651
+    ],
+    [
+     -7.2968,
+     -34.80821
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a17",
+  "topico": "almoco",
+  "nome": "Restaurante Maré (Praia Bela)",
+  "area": "Pitimbu",
+  "texto": "Carnes, petiscos e frutos do mar à beira de Praia Bela, aberto todos os dias.",
+  "dica": "Fica no extremo do Litoral Sul: separe o dia inteiro.",
+  "endereco": "Praia Bela, Pitimbu - PB",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJOye2FlW9rAcRbjOmnFBAhhE",
+  "mare": false,
+  "instagram": "https://www.instagram.com/marepraiabela/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.402742,
+  "lng": -34.804986,
+  "ponto": "osm",
+  "rota": {
+   "km": 45.4,
+   "min": 48,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23764,
+     -34.84351
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.2789,
+     -34.80085
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.30375,
+     -34.81003
+    ],
+    [
+     -7.31626,
+     -34.80688
+    ],
+    [
+     -7.33817,
+     -34.8099
+    ],
+    [
+     -7.34219,
+     -34.80318
+    ],
+    [
+     -7.35015,
+     -34.80399
+    ],
+    [
+     -7.35196,
+     -34.82016
+    ],
+    [
+     -7.37696,
+     -34.82277
+    ],
+    [
+     -7.38155,
+     -34.83003
+    ],
+    [
+     -7.39182,
+     -34.82178
+    ],
+    [
+     -7.39287,
+     -34.81389
+    ],
+    [
+     -7.39675,
+     -34.81116
+    ],
+    [
+     -7.40346,
+     -34.81129
+    ],
+    [
+     -7.40717,
+     -34.80755
+    ],
+    [
+     -7.40262,
+     -34.8055
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n1",
+  "topico": "noite",
+  "nome": "Gringo’s Bar Tambaú",
+  "area": "Tambaú",
+  "texto": "Bar animado em Tambaú, com mistura de turistas e locais.",
+  "dica": "Quem chega para um drink costuma ficar a noite toda.",
+  "endereco": "R. Coração de Jesus, 201, Tambaú",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJEcQDq17drAcRl-OgrellwjA",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.11094,
+  "lng": -34.824467,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.7,
+   "min": 2,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11133,
+     -34.82527
+    ],
+    [
+     -7.11094,
+     -34.82447
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n2",
+  "topico": "noite",
+  "nome": "Giramundo Tambaú",
+  "area": "Tambaú",
+  "texto": "Um dos bares mais movimentados da orla, com muita opção de drinks, cerveja gelada e petiscos.",
+  "dica": "Fica do lado da feirinha: dá pra emendar.",
+  "endereco": "Av. Almirante Tamandaré, 564, Tambaú, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ2_eMYSbdrAcRfxf80QFlvtg",
+  "mare": false,
+  "instagram": "https://www.instagram.com/giramundodrinks/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.115647,
+  "lng": -34.822712,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.4,
+   "min": 2,
+   "pe_min": 17,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12216,
+     -34.82507
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11561,
+     -34.82285
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n3",
+  "topico": "noite",
+  "nome": "Atol Music Bar",
+  "area": "Tambaú",
+  "texto": "Um dos bares mais tradicionais de música ao vivo da cidade, com pegada rock.",
+  "dica": "Confira a programação de bandas no dia.",
+  "endereco": "Rua Coração de Jesus, 138, Tambaú, João Pessoa",
+  "valor": "Ingresso a partir de R$ 30, conforme a banda",
+  "valor_ref": "valor de jan/2026",
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJNzS82SPdrAcRk4vxcJatGqg",
+  "mare": false,
+  "instagram": "https://www.instagram.com/atolmusicbar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.1116,
+  "lng": -34.8241,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 1.8,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11133,
+     -34.82527
+    ],
+    [
+     -7.11092,
+     -34.82447
+    ],
+    [
+     -7.11128,
+     -34.82428
+    ],
+    [
+     -7.1115,
+     -34.82401
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n4",
+  "topico": "noite",
+  "nome": "After Pub",
+  "area": "Tambaú",
+  "texto": "Casa de rock em Tambaú que vai até de madrugada, com bandas locais e nacionais.",
+  "dica": null,
+  "endereco": "Av. Izidro Gomes, 63, Tambaú, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJbR7YsaDdrAcRsIF-zv_Lht8",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.1113,
+  "lng": -34.8249,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 1.7,
+   "min": 2,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11133,
+     -34.82527
+    ],
+    [
+     -7.11117,
+     -34.82497
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n5",
+  "topico": "noite",
+  "nome": "Barzin Espetos & Petiscos",
+  "area": "Tambaú",
+  "texto": "Bar de espetinhos e petiscos, um dos pontos movimentados entre Tambaú e Cabo Branco.",
+  "dica": "Noite leve depois de um dia longo de passeio.",
+  "endereco": "Av. Antônio Lira, 541, Tambaú",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJQ9BPBbHdrAcRUWftHEFBXps",
+  "mare": false,
+  "instagram": "https://www.instagram.com/barzin.of/",
+  "menu": null,
+  "alertas": [
+   "Tem a nota mais baixa da lista Noite. Está aqui por ser perto do hotel."
+  ],
+  "fotos": [],
+  "lat": -7.116875,
+  "lng": -34.824207,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.7,
+   "min": 2,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11442,
+     -34.82364
+    ],
+    [
+     -7.11688,
+     -34.82421
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n6",
+  "topico": "noite",
+  "nome": "ORAMA Rooftop",
+  "area": "Cabo Branco",
+  "texto": "Rooftop do BA'RA Hotel, vizinho ao nosso, com vista do mar, cozinha autoral e boa carta de drinks. Bom pra jantar especial.",
+  "dica": "Reserve, principalmente sexta e sábado.",
+  "endereco": "Av. Cabo Branco, 1148, Cabo Branco, João Pessoa (acesso pela praia); acesso do estacionamento pela Av. Antônio Lira, 777",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJoRJInu7drAcRfH_BaoyqRwY",
+  "mare": false,
+  "instagram": "https://www.instagram.com/oramarooftop/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.12,
+  "lng": -34.824,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 0.0,
+   "min": 0,
+   "pe_min": 0,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12026,
+     -34.82389
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n7",
+  "topico": "noite",
+  "nome": "Skybar Tour Genève",
+  "area": "Altiplano",
+  "texto": "Um dos bares mais altos do Brasil, no 44º andar, com vista da cidade e do mar. Ponto de encontro de turistas.",
+  "dica": "Não aceita reserva. Chegue antes da abertura: forma fila.",
+  "endereco": "Rua Ana Guedes de Vasconcelos, 81, Altiplano Cabo Branco, João Pessoa (Tour Geneve, 44º andar)",
+  "valor": "Entrada R$ 70 (meia R$ 35), não vira consumação · drinks R$ 29 a R$ 35 · pratos R$ 63 a R$ 105",
+  "valor_ref": "valores de jan/2026",
+  "faixa_google": true,
+  "horario": "Todos os dias, 15h30 às 23h45",
+  "fecha": null,
+  "place_id": "ChIJK3hKrK3DrAcRcj6xL3ehrrg",
+  "mare": false,
+  "instagram": "https://www.instagram.com/skybarjpa/",
+  "menu": null,
+  "alertas": [
+   "Réveillon 2027 divulgado pela casa: confirme ingressos direto com eles."
+  ],
+  "fotos": [],
+  "lat": -7.131389,
+  "lng": -34.828209,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.8,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.1248,
+     -34.82824
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12431,
+     -34.83091
+    ],
+    [
+     -7.12439,
+     -34.83101
+    ],
+    [
+     -7.12455,
+     -34.83089
+    ],
+    [
+     -7.12501,
+     -34.82852
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12539,
+     -34.82818
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12674,
+     -34.82848
+    ],
+    [
+     -7.12753,
+     -34.82894
+    ],
+    [
+     -7.12793,
+     -34.8289
+    ],
+    [
+     -7.12852,
+     -34.82852
+    ],
+    [
+     -7.12866,
+     -34.82833
+    ],
+    [
+     -7.12866,
+     -34.82804
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1284,
+     -34.82667
+    ],
+    [
+     -7.12954,
+     -34.8259
+    ],
+    [
+     -7.13052,
+     -34.82538
+    ],
+    [
+     -7.13139,
+     -34.82821
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n8",
+  "topico": "noite",
+  "nome": "Zenith Sky Lounge",
+  "area": "Altiplano",
+  "texto": "Lounge e gastrobar no alto do mesmo prédio do Skybar, com cozinha asiática e DJs em dias de festa.",
+  "dica": "Combine: Skybar no pôr do sol, Zenith depois.",
+  "endereco": "Rua Ana Guedes de Vasconcelos, 81, Altiplano Cabo Branco, João Pessoa (Tour Geneve)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ3StnCzTDrAcRu4tZ3Oz8crs",
+  "mare": false,
+  "instagram": "https://www.instagram.com/zenithskylounge/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.131389,
+  "lng": -34.828209,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.8,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.1248,
+     -34.82824
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12431,
+     -34.83091
+    ],
+    [
+     -7.12439,
+     -34.83101
+    ],
+    [
+     -7.12455,
+     -34.83089
+    ],
+    [
+     -7.12501,
+     -34.82852
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12539,
+     -34.82818
+    ],
+    [
+     -7.12614,
+     -34.8283
+    ],
+    [
+     -7.12674,
+     -34.82848
+    ],
+    [
+     -7.12753,
+     -34.82894
+    ],
+    [
+     -7.12793,
+     -34.8289
+    ],
+    [
+     -7.12852,
+     -34.82852
+    ],
+    [
+     -7.12866,
+     -34.82833
+    ],
+    [
+     -7.12866,
+     -34.82804
+    ],
+    [
+     -7.1283,
+     -34.82699
+    ],
+    [
+     -7.1284,
+     -34.82667
+    ],
+    [
+     -7.12954,
+     -34.8259
+    ],
+    [
+     -7.13052,
+     -34.82538
+    ],
+    [
+     -7.13139,
+     -34.82821
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n9",
+  "topico": "noite",
+  "nome": "Esperanto Boteco",
+  "area": "Manaíra",
+  "texto": "Boteco muito bem avaliado em Manaíra, bom pra happy hour e petisco em grupo.",
+  "dica": null,
+  "endereco": "Av. Pombal, 611, Manaíra",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJyZh-tbfdrAcRptHut_3c2u0",
+  "mare": false,
+  "instagram": null,
+  "menu": "https://esperanto-boteco-do-mundo.goomer.app/menu",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.105442,
+  "lng": -34.833202,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.0,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10575,
+     -34.83115
+    ],
+    [
+     -7.10655,
+     -34.83225
+    ],
+    [
+     -7.10544,
+     -34.8332
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n10",
+  "topico": "noite",
+  "nome": "Paralelo Pub",
+  "area": "Manaíra",
+  "texto": "Pub em Manaíra que vai até as 3h, com música e clima de noite longa.",
+  "dica": "Boa pra esticar depois do jantar em Manaíra.",
+  "endereco": "R. Francisco Claudino Pereira, 422, Manaíra",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ3SAhDL7drAcR0OQGA-nmI8w",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.100841,
+  "lng": -34.837519,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.7,
+   "min": 5,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10927,
+     -34.82785
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09995,
+     -34.83516
+    ],
+    [
+     -7.10097,
+     -34.83746
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n11",
+  "topico": "noite",
+  "nome": "Priscylla’s Hall",
+  "area": "Mandacaru",
+  "texto": "A casa noturna mais conhecida da cidade, com eletrônico, funk e sertanejo. Festa até o dia clarear.",
+  "dica": "Confira antes qual é a festa da semana.",
+  "endereco": "Av. Monte Castelo, 73, Mandacaru, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJn5z8mN3drAcRVWvf0sxWDVI",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.103819,
+  "lng": -34.859792,
+  "ponto": "osm",
+  "rota": {
+   "km": 7.1,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.09811,
+     -34.84804
+    ],
+    [
+     -7.09869,
+     -34.85192
+    ],
+    [
+     -7.09705,
+     -34.85652
+    ],
+    [
+     -7.09694,
+     -34.85726
+    ],
+    [
+     -7.09819,
+     -34.85933
+    ],
+    [
+     -7.1001,
+     -34.86006
+    ],
+    [
+     -7.10053,
+     -34.86045
+    ],
+    [
+     -7.1006,
+     -34.86012
+    ],
+    [
+     -7.10382,
+     -34.85979
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n12",
+  "topico": "noite",
+  "nome": "Vila do Porto",
+  "area": "Centro Histórico",
+  "texto": "Casa de show e festas em frente ao Hotel Globo, no Centro Histórico. Forte na cena indie e com música de vários estilos.",
+  "dica": "Ingresso muda por evento.",
+  "endereco": "Praça São Frei Pedro Gonçalves, 8, Varadouro (Centro Histórico), João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJYcRUxtznrAcRTqbfrezK69I",
+  "mare": false,
+  "instagram": "https://www.instagram.com/vila_do_porto/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.112416,
+  "lng": -34.89002,
+  "ponto": "osm",
+  "rota": {
+   "km": 8.9,
+   "min": 13,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12428,
+     -34.83105
+    ],
+    [
+     -7.12538,
+     -34.83465
+    ],
+    [
+     -7.12572,
+     -34.83997
+    ],
+    [
+     -7.12474,
+     -34.84692
+    ],
+    [
+     -7.12229,
+     -34.84694
+    ],
+    [
+     -7.12256,
+     -34.85604
+    ],
+    [
+     -7.12137,
+     -34.85896
+    ],
+    [
+     -7.11869,
+     -34.85907
+    ],
+    [
+     -7.11866,
+     -34.86814
+    ],
+    [
+     -7.11524,
+     -34.87418
+    ],
+    [
+     -7.11594,
+     -34.87577
+    ],
+    [
+     -7.11513,
+     -34.8797
+    ],
+    [
+     -7.11571,
+     -34.88174
+    ],
+    [
+     -7.11526,
+     -34.88409
+    ],
+    [
+     -7.11599,
+     -34.88434
+    ],
+    [
+     -7.11589,
+     -34.88505
+    ],
+    [
+     -7.11655,
+     -34.88728
+    ],
+    [
+     -7.11251,
+     -34.88943
+    ],
+    [
+     -7.11233,
+     -34.8898
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n13",
+  "topico": "noite",
+  "nome": "Sax Café (Jacaré)",
+  "area": "Cabedelo",
+  "texto": "Café e bar no calçadão do pôr do sol do Jacaré, com tapiocas, drinks e vista do rio na hora do Bolero.",
+  "dica": "Pegue mesa antes das 16h30 para ver o Bolero de Ravel.",
+  "endereco": "Orla da Praia do Jacaré (calçadão do pôr do sol), Cabedelo",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ42uw2z3frAcRpvqGhKXp_LM",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [
+   "Os bares da orla do Jacaré têm histórico de fechamento judicial. Confirme se está aberto."
+  ],
+  "fotos": [],
+  "lat": -7.0406,
+  "lng": -34.8552,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 12.9,
+   "min": 18,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.05549,
+     -34.85059
+    ],
+    [
+     -7.05064,
+     -34.84945
+    ],
+    [
+     -7.04025,
+     -34.84474
+    ],
+    [
+     -7.04153,
+     -34.84611
+    ],
+    [
+     -7.03957,
+     -34.85463
+    ],
+    [
+     -7.04065,
+     -34.85476
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n15",
+  "topico": "noite",
+  "nome": "Casa Nonna",
+  "area": "Tambaú",
+  "texto": "Italiana em Tambaú, aconchegante, boa pra jantar em grupo sem ir longe.",
+  "dica": "Reserve para grupo grande: WhatsApp (83) 99351-8456.",
+  "endereco": "Praça Santo Antônio, 56, Tambaú, João Pessoa",
+  "valor": "R$ 78 a R$ 157 por pessoa (prato + bebida)",
+  "valor_ref": "cardápio oficial, out/2026",
+  "faixa_google": true,
+  "horario": "Terça a domingo, a partir das 18h · almoço no fim de semana",
+  "fecha": "Fecha segunda",
+  "place_id": "ChIJlWxlgxfdrAcRs-CqKB43a1Y",
+  "mare": false,
+  "instagram": "https://instagram.com/casanonnajp",
+  "menu": "https://casanonnajp.com.br/menu/menu.html",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.110946,
+  "lng": -34.823579,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.0,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.1187,
+     -34.82361
+    ],
+    [
+     -7.11434,
+     -34.82254
+    ],
+    [
+     -7.11365,
+     -34.82245
+    ],
+    [
+     -7.11302,
+     -34.82257
+    ],
+    [
+     -7.11084,
+     -34.82324
+    ],
+    [
+     -7.11095,
+     -34.82358
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n16",
+  "topico": "noite",
+  "nome": "Famiglia Muccini",
+  "area": "Tambaú",
+  "texto": "Italiana familiar em Tambaú, com massas frescas.",
+  "dica": "O almoço tem menu executivo.",
+  "endereco": "Av. Nossa Senhora dos Navegantes, 140, Tambaú, João Pessoa",
+  "valor": "R$ 83 a R$ 120 por pessoa (massa + bebida)",
+  "valor_ref": "cardápio oficial, out/2026",
+  "faixa_google": true,
+  "horario": "Todo dia, 11h30 às 15h e 18h à meia-noite",
+  "fecha": null,
+  "place_id": "ChIJa4696yPdrAcR7EzrD7u74Xk",
+  "mare": false,
+  "instagram": "https://www.instagram.com/famigliamuccini/",
+  "menu": "https://menudigital.info/famigliamuccini/",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.113749,
+  "lng": -34.824829,
+  "ponto": "osm",
+  "rota": {
+   "km": 1.4,
+   "min": 2,
+   "pe_min": 16,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11373,
+     -34.82458
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n17",
+  "topico": "noite",
+  "nome": "Tartuferia Savitar",
+  "area": "Manaíra",
+  "texto": "Alta gastronomia ítalo-japonesa, com foco em trufas.",
+  "dica": "Reserve com antecedência e peça o cardápio pelo Instagram.",
+  "endereco": "R. Franca Filho, 96, Manaíra, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJz8a2sEDdrAcRFrQeHCTWyEw",
+  "mare": false,
+  "instagram": "https://www.instagram.com/tartuferiasavitar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.1078,
+  "lng": -34.8276,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 2.1,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11326,
+     -34.82462
+    ],
+    [
+     -7.1123,
+     -34.8248
+    ],
+    [
+     -7.10972,
+     -34.82602
+    ],
+    [
+     -7.10771,
+     -34.82751
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n18",
+  "topico": "noite",
+  "nome": "Trattoria Casa Rústica",
+  "area": "Litoral Sul",
+  "texto": "Italiana muito bem avaliada em Jacumã, só à noite.",
+  "dica": "Ideal se o grupo dormir no Litoral Sul ou voltar tarde.",
+  "endereco": "Av. Ilza Ribeiro, Jacumã, Conde",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJRyO-0mi_rAcRTppLWjkBxbA",
+  "mare": false,
+  "instagram": null,
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.281648,
+  "lng": -34.800902,
+  "ponto": "osm",
+  "rota": {
+   "km": 26.2,
+   "min": 28,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16268,
+     -34.83421
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22603,
+     -34.8407
+    ],
+    [
+     -7.23796,
+     -34.84348
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25305,
+     -34.81169
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27844,
+     -34.80114
+    ],
+    [
+     -7.28165,
+     -34.8009
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l16",
+  "topico": "lounges",
+  "nome": "Praiano Bar",
+  "area": "Bessa",
+  "texto": "Bar e restaurante de praia no Bessa, com frutos do mar e drinks.",
+  "dica": null,
+  "endereco": null,
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Segunda a sexta, 9h às 17h · sábado e domingo, 9h às 18h",
+  "fecha": null,
+  "place_id": "ChIJsYTrTVrdrAcRYdZM3jkbImU",
+  "mare": false,
+  "instagram": "https://www.instagram.com/praianobar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.077958,
+  "lng": -34.830158,
+  "ponto": "osm",
+  "rota": {
+   "km": 6.2,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09752,
+     -34.8364
+    ],
+    [
+     -7.09709,
+     -34.83465
+    ],
+    [
+     -7.09181,
+     -34.83466
+    ],
+    [
+     -7.08757,
+     -34.83407
+    ],
+    [
+     -7.08449,
+     -34.83318
+    ],
+    [
+     -7.07945,
+     -34.83097
+    ],
+    [
+     -7.07799,
+     -34.83069
+    ],
+    [
+     -7.07808,
+     -34.83018
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l17",
+  "topico": "lounges",
+  "nome": "La Playa Bar e Restaurante",
+  "area": "Jardim Oceania",
+  "texto": "Bar e restaurante à beira-mar, com frutos do mar e drinks.",
+  "dica": null,
+  "endereco": "Av. Gov. Argemiro de Figueiredo, 2548, Jd Oceania (bio do Instagram; cidade não escrita, DDD 83)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todos os dias, 9h às 18h",
+  "fecha": null,
+  "place_id": "ChIJhblinEvdrAcRvTjHxmRCW6Y",
+  "mare": false,
+  "instagram": "https://www.instagram.com/laplayajpa/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.074715,
+  "lng": -34.830796,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 6.5,
+   "min": 9,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09752,
+     -34.8364
+    ],
+    [
+     -7.09709,
+     -34.83465
+    ],
+    [
+     -7.09181,
+     -34.83466
+    ],
+    [
+     -7.08832,
+     -34.8342
+    ],
+    [
+     -7.08449,
+     -34.83318
+    ],
+    [
+     -7.07945,
+     -34.83097
+    ],
+    [
+     -7.07681,
+     -34.83064
+    ],
+    [
+     -7.07472,
+     -34.8308
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l18",
+  "topico": "lounges",
+  "nome": "TreeHouse Bar Lounge",
+  "area": "Jacaré",
+  "texto": "Bar e lounge montado em uma árvore, com vista do pôr do sol do Jacaré.",
+  "dica": null,
+  "endereco": null,
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ33JsoxverAcRwnzfHW9fJTI",
+  "mare": false,
+  "instagram": "https://www.instagram.com/treehouse.pb/",
+  "menu": null,
+  "alertas": [
+   "O Instagram da casa avisa sobre páginas falsas usadas em golpes. Reserve só pelo perfil oficial."
+  ],
+  "fotos": [],
+  "lat": -7.039407,
+  "lng": -34.855299,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 13.0,
+   "min": 18,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09929,
+     -34.84273
+    ],
+    [
+     -7.0977,
+     -34.84287
+    ],
+    [
+     -7.0979,
+     -34.84765
+    ],
+    [
+     -7.05549,
+     -34.85059
+    ],
+    [
+     -7.05064,
+     -34.84945
+    ],
+    [
+     -7.04025,
+     -34.84474
+    ],
+    [
+     -7.04153,
+     -34.84611
+    ],
+    [
+     -7.03907,
+     -34.85526
+    ]
+   ]
+  }
+ },
+ {
+  "id": "l19",
+  "topico": "lounges",
+  "nome": "Praia Soul",
+  "area": "Litoral Sul",
+  "texto": "Bar e restaurante à beira-mar na Praia de Tabatinga, no Conde, com petiscos e drinks.",
+  "dica": null,
+  "endereco": "Praia de Tabatinga, Conde - PB (CEP 58.322-000)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJRRclTSy_rAcRoUsMzR4gebk",
+  "mare": false,
+  "instagram": "https://www.instagram.com/_praiasoul_/",
+  "menu": "https://www.praiasoul.com.br/petiscos-refei%C3%A7%C3%B5es",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.31479,
+  "lng": -34.801953,
+  "ponto": "osm",
+  "rota": {
+   "km": 31.0,
+   "min": 34,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.12309,
+     -34.82397
+    ],
+    [
+     -7.12346,
+     -34.82871
+    ],
+    [
+     -7.12493,
+     -34.8283
+    ],
+    [
+     -7.12444,
+     -34.83101
+    ],
+    [
+     -7.12515,
+     -34.82828
+    ],
+    [
+     -7.12837,
+     -34.82863
+    ],
+    [
+     -7.1285,
+     -34.82658
+    ],
+    [
+     -7.14321,
+     -34.8164
+    ],
+    [
+     -7.15211,
+     -34.81682
+    ],
+    [
+     -7.15559,
+     -34.81909
+    ],
+    [
+     -7.16038,
+     -34.81906
+    ],
+    [
+     -7.16068,
+     -34.8219
+    ],
+    [
+     -7.16388,
+     -34.82569
+    ],
+    [
+     -7.16265,
+     -34.8342
+    ],
+    [
+     -7.17108,
+     -34.83442
+    ],
+    [
+     -7.17107,
+     -34.83674
+    ],
+    [
+     -7.17867,
+     -34.83692
+    ],
+    [
+     -7.18191,
+     -34.83901
+    ],
+    [
+     -7.20097,
+     -34.84051
+    ],
+    [
+     -7.2019,
+     -34.84321
+    ],
+    [
+     -7.20577,
+     -34.84384
+    ],
+    [
+     -7.20608,
+     -34.84167
+    ],
+    [
+     -7.21191,
+     -34.84205
+    ],
+    [
+     -7.21886,
+     -34.83533
+    ],
+    [
+     -7.22357,
+     -34.83965
+    ],
+    [
+     -7.23781,
+     -34.8435
+    ],
+    [
+     -7.24077,
+     -34.83474
+    ],
+    [
+     -7.25194,
+     -34.8255
+    ],
+    [
+     -7.25353,
+     -34.81131
+    ],
+    [
+     -7.27031,
+     -34.81337
+    ],
+    [
+     -7.27039,
+     -34.81162
+    ],
+    [
+     -7.272,
+     -34.81174
+    ],
+    [
+     -7.27907,
+     -34.80081
+    ],
+    [
+     -7.28884,
+     -34.80326
+    ],
+    [
+     -7.29032,
+     -34.80624
+    ],
+    [
+     -7.29305,
+     -34.808
+    ],
+    [
+     -7.30375,
+     -34.81003
+    ],
+    [
+     -7.31255,
+     -34.80914
+    ],
+    [
+     -7.31614,
+     -34.80488
+    ],
+    [
+     -7.31527,
+     -34.80235
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n19",
+  "topico": "noite",
+  "nome": "Rock & Ribs Lounge",
+  "area": "Jardim Oceania",
+  "texto": "Steakhouse temática de rock no térreo do Liv Mall, com música ao vivo e drinks.",
+  "dica": null,
+  "endereco": "Térreo do Liv Mall, João Pessoa (Jardim Oceania)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todos os dias, a partir das 12h",
+  "fecha": null,
+  "place_id": "ChIJHR4WYlXdrAcR9yJr1uhoP9M",
+  "mare": false,
+  "instagram": "https://www.instagram.com/rockeribsjoaopessoa/",
+  "menu": "https://rockeribs.com.br/bebidas-joao-pessoa/",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.096799,
+  "lng": -34.837604,
+  "ponto": "osm",
+  "rota": {
+   "km": 4.0,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11077,
+     -34.82554
+    ],
+    [
+     -7.11138,
+     -34.82675
+    ],
+    [
+     -7.10905,
+     -34.82802
+    ],
+    [
+     -7.10483,
+     -34.83198
+    ],
+    [
+     -7.09855,
+     -34.83612
+    ],
+    [
+     -7.09752,
+     -34.8364
+    ],
+    [
+     -7.09623,
+     -34.83648
+    ],
+    [
+     -7.09638,
+     -34.83766
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n20",
+  "topico": "noite",
+  "nome": "Cabo Branco Drinks",
+  "area": "Cabo Branco",
+  "texto": "Bar beira-mar na orla de Cabo Branco, com drinks, petiscos e música ao vivo.",
+  "dica": null,
+  "endereco": "Orla de Cabo Branco, João Pessoa (número não informado)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Segunda a sábado, 18h à meia-noite (aviso de 06/09/2026)",
+  "fecha": null,
+  "place_id": "ChIJe-dLCI_drAcReGxiSIVn8Fo",
+  "mare": false,
+  "instagram": "https://www.instagram.com/cabobrancodrinks/",
+  "menu": null,
+  "alertas": [
+   "Promoções recentes citam consumo mínimo por pessoa."
+  ],
+  "fotos": [],
+  "lat": -7.145574,
+  "lng": -34.806428,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 3.8,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1247,
+     -34.82387
+    ],
+    [
+     -7.12735,
+     -34.82338
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.1395,
+     -34.81699
+    ],
+    [
+     -7.14255,
+     -34.81428
+    ],
+    [
+     -7.14477,
+     -34.81167
+    ],
+    [
+     -7.14586,
+     -34.80927
+    ],
+    [
+     -7.14612,
+     -34.80909
+    ],
+    [
+     -7.14604,
+     -34.80774
+    ],
+    [
+     -7.14557,
+     -34.80643
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n21",
+  "topico": "noite",
+  "nome": "Oxe Manaíra",
+  "area": "Manaíra",
+  "texto": "Bar, restaurante e pizzaria em Manaíra.",
+  "dica": null,
+  "endereco": null,
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJ1Te1AHDdrAcR3e7oMfLMSyI",
+  "mare": false,
+  "instagram": null,
+  "menu": "https://app.cardapioweb.com/oxe_bar_e_restaurante",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.102973,
+  "lng": -34.830724,
+  "ponto": "aproximado",
+  "rota": {
+   "km": 3.0,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10642,
+     -34.82786
+    ],
+    [
+     -7.1046,
+     -34.82952
+    ],
+    [
+     -7.10297,
+     -34.83072
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a18",
+  "topico": "almoco",
+  "nome": "The W Restaurante",
+  "area": "Manaíra",
+  "texto": "Comfort food em Manaíra, com massas, risotos, carnes e frutos do mar. Serve almoço e jantar.",
+  "dica": null,
+  "endereco": "Av. João Maurício, 451, Manaíra, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Domingo a quinta, 12h às 15h e 19h às 23h · sexta e sábado, 12h à meia-noite",
+  "fecha": null,
+  "place_id": "ChIJUV8dZxjdrAcR2XNObjBI-V8",
+  "mare": false,
+  "instagram": "https://www.instagram.com/thewrestaurante/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.102973,
+  "lng": -34.830724,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.0,
+   "min": 4,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10642,
+     -34.82786
+    ],
+    [
+     -7.1046,
+     -34.82952
+    ],
+    [
+     -7.10297,
+     -34.83072
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n22",
+  "topico": "noite",
+  "nome": "Hashi Sushi N' Beer",
+  "area": "Manaíra",
+  "texto": "Japonês com festival à la carte e poke, aberto à noite.",
+  "dica": null,
+  "endereco": "Rua Eutiquiano Barreto, 315, Manaíra, João Pessoa (cidade pelo DDD 83)",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Todos os dias, 17h30 às 23h",
+  "fecha": null,
+  "place_id": "ChIJw21Equ7drAcRpiL0OckWwrc",
+  "mare": false,
+  "instagram": "https://www.instagram.com/hashijpa/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.107074,
+  "lng": -34.839014,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.4,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11622,
+     -34.82499
+    ],
+    [
+     -7.11501,
+     -34.83025
+    ],
+    [
+     -7.11312,
+     -34.8297
+    ],
+    [
+     -7.11129,
+     -34.83062
+    ],
+    [
+     -7.10713,
+     -34.8345
+    ],
+    [
+     -7.10535,
+     -34.83569
+    ],
+    [
+     -7.10707,
+     -34.83901
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a19",
+  "topico": "almoco",
+  "nome": "Gulliver Mar",
+  "area": "Cabo Branco",
+  "texto": "Frutos do mar à beira-mar na Av. Cabo Branco, para almoço e jantar.",
+  "dica": null,
+  "endereco": "Av. Cabo Branco, 5160, Cabo Branco, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": false,
+  "horario": "Segunda a quinta, 12h às 16h e 19h às 23h (quarta e quinta até 23h30) · sexta e sábado, 12h à meia-noite · domingo, 11h30 às 22h30",
+  "fecha": null,
+  "place_id": "ChIJC9vnnT3DrAcRrNUjaM1Pom0",
+  "mare": false,
+  "instagram": "https://www.instagram.com/restaurantegullivermar/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.145912,
+  "lng": -34.804341,
+  "ponto": "osm",
+  "rota": {
+   "km": 4.0,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1247,
+     -34.82387
+    ],
+    [
+     -7.12858,
+     -34.82301
+    ],
+    [
+     -7.13396,
+     -34.8208
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.1388,
+     -34.81757
+    ],
+    [
+     -7.14255,
+     -34.81428
+    ],
+    [
+     -7.14483,
+     -34.81158
+    ],
+    [
+     -7.14586,
+     -34.80927
+    ],
+    [
+     -7.14612,
+     -34.80909
+    ],
+    [
+     -7.14604,
+     -34.80774
+    ],
+    [
+     -7.14558,
+     -34.80648
+    ],
+    [
+     -7.14573,
+     -34.80433
+    ]
+   ]
+  }
+ },
+ {
+  "id": "a20",
+  "topico": "almoco",
+  "nome": "Maral Restaurante",
+  "area": "Cabo Branco",
+  "texto": "Restaurante na Av. Cabo Branco com menu executivo, parmegianas, hambúrgueres e drinks.",
+  "dica": null,
+  "endereco": "Av. Cabo Branco, 2098, Cabo Branco, João Pessoa",
+  "valor": "Executivo de R$ 42 a R$ 62 com três acompanhamentos",
+  "valor_ref": "cardápio oficial, out/2026",
+  "faixa_google": true,
+  "horario": "Quarta a segunda, 11h30 às 21h30",
+  "fecha": "Fecha terça",
+  "place_id": "ChIJH9UDTHHDrAcRb1ltD0YVtH4",
+  "mare": false,
+  "instagram": "https://www.instagram.com/maralrestaurante/",
+  "menu": "https://restaurantemaral.com.br/cardapio/",
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.145574,
+  "lng": -34.806428,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.8,
+   "min": 6,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1247,
+     -34.82387
+    ],
+    [
+     -7.12735,
+     -34.82338
+    ],
+    [
+     -7.13296,
+     -34.82132
+    ],
+    [
+     -7.13656,
+     -34.81924
+    ],
+    [
+     -7.1395,
+     -34.81699
+    ],
+    [
+     -7.14255,
+     -34.81428
+    ],
+    [
+     -7.14477,
+     -34.81167
+    ],
+    [
+     -7.14586,
+     -34.80927
+    ],
+    [
+     -7.14612,
+     -34.80909
+    ],
+    [
+     -7.14604,
+     -34.80774
+    ],
+    [
+     -7.14557,
+     -34.80643
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n23",
+  "topico": "noite",
+  "nome": "Quintal Restô",
+  "area": "Manaíra",
+  "texto": "Restaurante contemporâneo com jantar surpresa em quatro etapas.",
+  "dica": null,
+  "endereco": "Rua Eutiquiano Barreto, 863, Manaíra, João Pessoa",
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": "Sextas e sábados, 19h às 23h",
+  "fecha": null,
+  "place_id": "ChIJ4c2JZBXdrAcRQ3Djk6x7rq4",
+  "mare": false,
+  "instagram": "https://www.instagram.com/quintal.resto/",
+  "menu": null,
+  "alertas": [
+   "Só abre às sextas e sábados."
+  ],
+  "fotos": [],
+  "lat": -7.105822,
+  "lng": -34.836601,
+  "ponto": "osm",
+  "rota": {
+   "km": 3.1,
+   "min": 5,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11935,
+     -34.82565
+    ],
+    [
+     -7.11622,
+     -34.82499
+    ],
+    [
+     -7.11501,
+     -34.83025
+    ],
+    [
+     -7.11312,
+     -34.8297
+    ],
+    [
+     -7.11113,
+     -34.83072
+    ],
+    [
+     -7.10713,
+     -34.8345
+    ],
+    [
+     -7.10535,
+     -34.83569
+    ],
+    [
+     -7.10582,
+     -34.8366
+    ]
+   ]
+  }
+ },
+ {
+  "id": "n24",
+  "topico": "noite",
+  "nome": "Tramice Ristorante",
+  "area": "Manaíra",
+  "texto": "Italiano em Manaíra, com almoço, jantar e carta de vinhos.",
+  "dica": null,
+  "endereco": null,
+  "valor": null,
+  "valor_ref": null,
+  "faixa_google": true,
+  "horario": null,
+  "fecha": null,
+  "place_id": "ChIJQzhaWb3drAcRvPdMohhPkmI",
+  "mare": false,
+  "instagram": "https://www.instagram.com/tramiceristorante/",
+  "menu": null,
+  "alertas": [],
+  "fotos": [],
+  "lat": -7.108424,
+  "lng": -34.825952,
+  "ponto": "osm",
+  "rota": {
+   "km": 2.2,
+   "min": 3,
+   "pe_min": null,
+   "linha": [
+    [
+     -7.12059,
+     -34.82392
+    ],
+    [
+     -7.1222,
+     -34.82398
+    ],
+    [
+     -7.12219,
+     -34.82597
+    ],
+    [
+     -7.11824,
+     -34.82545
+    ],
+    [
+     -7.11426,
+     -34.82453
+    ],
+    [
+     -7.11248,
+     -34.82473
+    ],
+    [
+     -7.11084,
+     -34.82551
+    ],
+    [
+     -7.11004,
+     -34.82378
+    ],
+    [
+     -7.10838,
+     -34.82559
+    ],
+    [
+     -7.10858,
+     -34.82577
+    ]
+   ]
+  }
+ }
+]
