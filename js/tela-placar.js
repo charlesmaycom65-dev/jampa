@@ -49,7 +49,7 @@ function posto(item, maximo) {
     .map(([nome, dias]) => `<li><i aria-hidden="true">${escapar(inicial(nome))}</i>${escapar(nome)}${estado.dia ? "" : `<small>${textoDias(dias)}</small>`}</li>`)
     .join("");
   return `
-    <li class="posto${posicao === 1 ? " posto--lider" : ""}" data-topico="${escapar(lugar.topico)}">
+    <li class="posto${votos === maximo ? " posto--lider" : ""}" data-topico="${escapar(lugar.topico)}">
       <div class="posto__foto">${miniatura(lugar)}<b class="posto__num">${posicao}º</b></div>
       <div class="posto__corpo">
         <div class="posto__linha">
@@ -69,7 +69,9 @@ function pintarLista(grupo) {
   const onde = estado.dia ? `Dia ${estado.dia}` : "Geral";
   const recorte = estado.topico ? ` · ${topicoDe.get(estado.topico).nome}` : "";
   el("placar-onde").textContent = `${onde}${recorte}`;
-  el("placar-nota").hidden = Boolean(estado.dia);
+  el("placar-nota").textContent = estado.dia
+    ? "No empate, vale a ordem do dia: praia, passeio, almoço, lounge e noite."
+    : "Geral soma os 7 dias: cada dia em que a pessoa escolheu o lugar conta 1 voto. No empate, vem antes o dia mais cedo e, no mesmo dia, a ordem praia, passeio, almoço, lounge e noite.";
   el("placar-conta").innerHTML = lista.length ? `<b>${lista.length}</b> ${lista.length === 1 ? "lugar com voto" : "lugares com voto"}` : "";
   const vazio = el("placar-vazio");
   vazio.hidden = lista.length > 0;

@@ -79,27 +79,34 @@ export function lerCodigos(texto, idsValidos) {
   return achados;
 }
 
+// Ordem em que as coisas acontecem num dia de viagem. Serve de desempate no placar.
+const HORARIO = ["praias", "passeios", "almoco", "lounges", "noite"];
+
 // Ranking do placar, do mais votado ao menos votado. Sem `dia`, soma os 7 dias:
-// cada dia em que a pessoa escolheu o lugar conta um voto. Empate divide a mesma posição.
+// cada dia em que a pessoa escolheu o lugar conta um voto.
+// Desempate (pedido do Maycon, 15/11/2026): primeiro o dia mais cedo em que o lugar foi votado,
+// depois o horário do dia (HORARIO) e, por fim, o nome. Por isso a posição segue em sequência, sem repetir.
 export function ranking(lugares, pessoas, dia = null) {
   const dias = dia ? [dia] : DIAS;
   const porLugar = new Map();
   for (const pessoa of pessoas.values()) {
     for (const d of dias) {
       for (const id of Object.keys(pessoa.dias[d] || {})) {
-        const item = porLugar.get(id) || { votos: 0, quem: new Map() };
+        const item = porLugar.get(id) || { votos: 0, quem: new Map(), primeiroDia: d };
         item.votos += 1;
+        item.primeiroDia = Math.min(item.primeiroDia, d);
         item.quem.set(pessoa.nome, [...(item.quem.get(pessoa.nome) || []), d]);
         porLugar.set(id, item);
       }
     }
   }
-  const lista = lugares
+  const horario = (lugar) => (HORARIO.indexOf(lugar.topico) + HORARIO.length + 1) % (HORARIO.length + 1);
+  return lugares
     .filter((lugar) => porLugar.has(lugar.id))
     .map((lugar) => ({ lugar, ...porLugar.get(lugar.id) }))
-    .sort((a, b) => b.votos - a.votos || a.lugar.nome.localeCompare(b.lugar.nome, "pt-BR"));
-  lista.forEach((item, i) => {
-    item.posicao = i > 0 && lista[i - 1].votos === item.votos ? lista[i - 1].posicao : i + 1;
-  });
-  return lista;
+    .sort((a, b) => b.votos - a.votos
+      || a.primeiroDia - b.primeiroDia
+      || horario(a.lugar) - horario(b.lugar)
+      || a.lugar.nome.localeCompare(b.lugar.nome, "pt-BR"))
+    .map((item, i) => ({ ...item, posicao: i + 1 }));
 }
