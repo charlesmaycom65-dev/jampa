@@ -78,3 +78,28 @@ export function lerCodigos(texto, idsValidos) {
   }
   return achados;
 }
+
+// Ranking do placar, do mais votado ao menos votado. Sem `dia`, soma os 7 dias:
+// cada dia em que a pessoa escolheu o lugar conta um voto. Empate divide a mesma posição.
+export function ranking(lugares, pessoas, dia = null) {
+  const dias = dia ? [dia] : DIAS;
+  const porLugar = new Map();
+  for (const pessoa of pessoas.values()) {
+    for (const d of dias) {
+      for (const id of Object.keys(pessoa.dias[d] || {})) {
+        const item = porLugar.get(id) || { votos: 0, quem: new Map() };
+        item.votos += 1;
+        item.quem.set(pessoa.nome, [...(item.quem.get(pessoa.nome) || []), d]);
+        porLugar.set(id, item);
+      }
+    }
+  }
+  const lista = lugares
+    .filter((lugar) => porLugar.has(lugar.id))
+    .map((lugar) => ({ lugar, ...porLugar.get(lugar.id) }))
+    .sort((a, b) => b.votos - a.votos || a.lugar.nome.localeCompare(b.lugar.nome, "pt-BR"));
+  lista.forEach((item, i) => {
+    item.posicao = i > 0 && lista[i - 1].votos === item.votos ? lista[i - 1].posicao : i + 1;
+  });
+  return lista;
+}

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex">
+  <meta name="theme-color" content="#0e7c86">
+  <title>Placar · Jampa 7 dias</title>
+  <meta property="og:title" content="Placar do grupo: Jampa 7 dias">
+  <meta property="og:description" content="Os lugares mais votados da nossa viagem a João Pessoa e quem votou em cada um.">
+  <meta property="og:image" content="https://charlesmaycom65-dev.github.io/jampa/fotos/capa.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="capa capa--baixa">
+    <img class="capa__foto" src="fotos/p1-1.webp" alt="Coqueiros na Praia do Cabo Branco, em João Pessoa" fetchpriority="high">
+    <div class="capa__texto">
+      <p class="capa__sobre">Jampa 7 dias · resultado</p>
+      <h1>Placar do grupo</h1>
+      <p class="capa__sub">Do mais votado ao menos votado, com quem votou em cada lugar.</p>
+      <p class="capa__status"><span id="ponto-vivo" class="ponto"></span><span id="texto-vivo">Conectando</span><span id="placar-total"></span></p>
+      <p class="capa__credito">Praia do Cabo Branco. Foto: Cacio Murilo/MTur · domínio público</p>
+    </div>
+  </header>
+
+  <main class="pagina">
+    <section id="placar-quem" aria-labelledby="titulo-quem" hidden>
+      <h2 id="titulo-quem" class="placar__titulo">Quem já votou</h2>
+      <ul id="placar-pessoas" class="pessoas"></ul>
+    </section>
+
+    <section aria-labelledby="titulo-lista">
+      <h2 id="titulo-lista" class="placar__titulo">Mais votados <small id="placar-onde">Geral</small></h2>
+      <div id="filtro-dias" class="filtro" role="group" aria-label="Escolher o dia"></div>
+      <div id="filtro-topicos" class="filtro" role="group" aria-label="Escolher o tipo de lugar"></div>
+      <p id="placar-nota" class="nota">Geral soma os 7 dias. Cada dia em que a pessoa escolheu o lugar conta 1 voto.</p>
+      <p id="placar-vazio" class="placar__vazio" role="status">Carregando os votos.</p>
+      <ol id="placar-lista" class="postos"></ol>
+    </section>
+  </main>
+
+  <div class="barra">
+    <p class="barra__conta" id="placar-conta"></p>
+    <a class="botao botao--escuro" href="./">Voltar para votar</a>
+  </div>
+
+  <script type="module" src="js/tela-placar.js"></script>
+</body>
+</html>
