@@ -1,22 +1,22 @@
 // Tela do placar: ranking ao vivo do que o grupo votou, por dia e por tipo de lugar.
 // Só lê os votos. Quem vota é a tela principal (app.js).
+// Tocar num item abre o mesmo cartão da tela de votar (cartao.js), sem o botão Votar.
+import { criarCartao, escapar } from "./cartao.js";
+import { abrirComentarios, abrirFotos, abrirMapa } from "./folhas.js";
 import { DIAS, juntarVotos, ranking } from "./placar.js";
 import { TOPICOS } from "./topicos.js";
 
 const el = (id) => document.getElementById(id);
 
-// Cópia curta de propósito: o `escapar` de cartao.js traria junto o bloco do Google, que esta tela não usa.
-const escapar = (texto) => {
-  const caixa = document.createElement("div");
-  caixa.textContent = texto ?? "";
-  return caixa.innerHTML;
-};
-
 function lerImportados() {
   try { return JSON.parse(localStorage.getItem("jampa_importados")) ?? {}; } catch { return {}; }
 }
 
-const estado = { lugares: [], aoVivo: {}, importados: lerImportados(), dia: null, topico: null, carregou: false, falhou: false };
+const estado = {
+  lugares: [], porId: new Map(), cartoes: new Map(),
+  aoVivo: {}, importados: lerImportados(),
+  dia: null, topico: null, aberto: null, carregou: false, falhou: false,
+};
 const topicoDe = new Map(TOPICOS.map((topico) => [topico.chave, topico]));
 
 const plural = (n, um, varios) => `${n} ${n === 1 ? um : varios}`;
@@ -42,6 +42,8 @@ function miniatura(lugar) {
   return `<span aria-hidden="true">${topicoDe.get(lugar.topico)?.icone || "📍"}</span>`;
 }
 
+const seta = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
+
 function posto(item, maximo) {
   const { lugar, votos, quem, posicao } = item;
   const topico = topicoDe.get(lugar.topico);
@@ -49,18 +51,48 @@ function posto(item, maximo) {
     .map(([nome, dias]) => `<li><i aria-hidden="true">${escapar(inicial(nome))}</i>${escapar(nome)}${estado.dia ? "" : `<small>${textoDias(dias)}</small>`}</li>`)
     .join("");
   return `
-    <li class="posto${votos === maximo ? " posto--lider" : ""}" data-topico="${escapar(lugar.topico)}">
-      <div class="posto__foto">${miniatura(lugar)}<b class="posto__num">${posicao}º</b></div>
-      <div class="posto__corpo">
-        <div class="posto__linha">
-          <h3>${escapar(lugar.nome)}</h3>
-          <span class="posto__votos"><b>${votos}</b> ${votos === 1 ? "voto" : "votos"}</span>
+    <li class="posto${votos === maximo ? " posto--lider" : ""}" data-id="${escapar(lugar.id)}" data-topico="${escapar(lugar.topico)}">
+      <div class="posto__resumo">
+        <div class="posto__foto">${miniatura(lugar)}<b class="posto__num">${posicao}º</b></div>
+        <div class="posto__corpo">
+          <div class="posto__linha">
+            <h3>${escapar(lugar.nome)}</h3>
+            <span class="posto__votos"><b>${votos}</b> ${votos === 1 ? "voto" : "votos"}</span>
+          </div>
+          <p class="posto__meta">${topico ? `${topico.icone} ${escapar(topico.nome)} · ` : ""}${escapar(lugar.area)}</p>
+          <div class="posto__barra" aria-hidden="true"><i style="width:${Math.round((votos / maximo) * 100)}%"></i></div>
+          <ul class="quem" aria-label="Quem votou">${nomes}</ul>
+          <button class="posto__abrir" type="button" aria-expanded="false"><span>Ver detalhes</span>${seta}</button>
         </div>
-        <p class="posto__meta">${topico ? `${topico.icone} ${escapar(topico.nome)} · ` : ""}${escapar(lugar.area)}</p>
-        <div class="posto__barra" aria-hidden="true"><i style="width:${Math.round((votos / maximo) * 100)}%"></i></div>
-        <ul class="quem" aria-label="Quem votou">${nomes}</ul>
       </div>
+      <div class="posto__detalhe"></div>
     </li>`;
+}
+
+function agir(acao, lugar) {
+  if (acao === "mapa") abrirMapa(lugar);
+  if (acao === "fotos") abrirFotos(lugar);
+  if (acao === "comentarios") abrirComentarios(lugar);
+}
+
+// O cartão é guardado e reaproveitado: recriar custaria outra consulta ao Google a cada voto que chega.
+function cartaoDe(id) {
+  if (!estado.cartoes.has(id)) estado.cartoes.set(id, criarCartao(estado.porId.get(id), agir));
+  return estado.cartoes.get(id);
+}
+
+// Deixa a lista igual a `estado.aberto`: um item aberto por vez, com o cartão completo dentro.
+function aplicarAberto() {
+  for (const item of el("placar-lista").children) {
+    const aberto = item.dataset.id === estado.aberto;
+    item.classList.toggle("posto--aberto", aberto);
+    const botao = item.querySelector(".posto__abrir");
+    botao.setAttribute("aria-expanded", String(aberto));
+    botao.querySelector("span").textContent = aberto ? "Fechar detalhes" : "Ver detalhes";
+    const caixa = item.querySelector(".posto__detalhe");
+    if (!aberto) caixa.replaceChildren();
+    else if (cartaoDe(item.dataset.id).parentElement !== caixa) caixa.append(cartaoDe(item.dataset.id));
+  }
 }
 
 function pintarLista(grupo) {
@@ -82,6 +114,7 @@ function pintarLista(grupo) {
       : "Ninguém votou ainda.";
   }
   el("placar-lista").innerHTML = lista.map((item) => posto(item, lista[0].votos)).join("");
+  aplicarAberto();
 }
 
 function pintar() {
@@ -105,6 +138,17 @@ function montarFiltro(id, opcoes, campo) {
   });
 }
 
+function ligarLista() {
+  el("placar-lista").addEventListener("click", (evento) => {
+    const resumo = evento.target.closest(".posto__resumo");
+    if (!resumo) return;
+    const item = resumo.parentElement;
+    estado.aberto = estado.aberto === item.dataset.id ? null : item.dataset.id;
+    aplicarAberto();
+    if (estado.aberto) item.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+}
+
 function marcarConexao(ok) {
   el("ponto-vivo").className = `ponto${ok ? " ponto--vivo" : ""}`;
   el("texto-vivo").textContent = ok ? "Ao vivo" : estado.carregou || estado.falhou ? "Sem conexão" : "Conectando";
@@ -120,10 +164,12 @@ function falhar() {
 async function iniciar() {
   montarFiltro("filtro-dias", [[null, "Geral"], ...DIAS.map((dia) => [dia, `Dia ${dia}`])], "dia");
   montarFiltro("filtro-topicos", [[null, "Tudo"], ...TOPICOS.map((topico) => [topico.chave, `${topico.icone} ${topico.nome}`])], "topico");
+  ligarLista();
   pintar();
   const resposta = await fetch("data/lugares.json");
   if (!resposta.ok) throw new Error("dados não carregaram");
   estado.lugares = await resposta.json();
+  estado.porId = new Map(estado.lugares.map((lugar) => [lugar.id, lugar]));
   const { iniciarVotos } = await import("./votos.js");
   iniciarVotos({
     aoMudarVotos(todos) {

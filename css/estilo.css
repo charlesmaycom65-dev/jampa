@@ -235,7 +235,8 @@ img { display: block; max-width: 100%; }
 .filtro button[aria-pressed="true"] { background: var(--turquesa); border-color: var(--turquesa); color: #fff; }
 
 .postos { display: grid; gap: 10px; margin-top: 14px; }
-.posto { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 12px; border: 1px solid var(--linha); border-radius: 18px; background: var(--branco); box-shadow: var(--sombra); }
+.posto { scroll-margin-top: 8px; overflow: hidden; overflow: clip; border: 1px solid var(--linha); border-radius: 18px; background: var(--branco); box-shadow: var(--sombra); }
+.posto__resumo { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 12px; cursor: pointer; }
 .posto--lider { border-color: var(--coral-escuro); box-shadow: 0 0 0 3px rgba(191, 74, 48, .14); }
 .posto__foto { position: relative; width: 64px; height: 64px; }
 .posto__foto img, .posto__foto span { display: grid; place-items: center; width: 64px; height: 64px; border-radius: 14px; object-fit: cover; background: var(--turquesa-clara); font-size: 28px; }
@@ -254,3 +255,14 @@ img { display: block; max-width: 100%; }
 .quem li { display: flex; align-items: center; gap: 6px; max-width: 100%; padding: 3px 10px 3px 3px; border-radius: 999px; background: var(--areia-forte); font-size: 13px; }
 .quem i { width: 22px; height: 22px; background: var(--branco); font-size: 11px; }
 .quem small { color: var(--suave); font-size: 12px; }
+.posto__abrir { min-height: 44px; margin: 4px 0 -8px; padding: 0; border: 0; background: none; display: inline-flex; align-items: center; gap: 4px; color: var(--turquesa); font-size: 14px; font-weight: 600; }
+.posto__abrir svg { transition: transform .28s ease; }
+.posto--aberto .posto__abrir svg { transform: rotate(180deg); }
+/* O cartão é o mesmo da tela de votar. Aqui ele vive dentro do item: sem moldura própria, sem o nome repetido e sem o Votar. */
+.posto__detalhe:empty { display: none; }
+.posto__detalhe { border-top: 1px solid var(--linha); }
+.posto__detalhe .cartao { border: 0; border-radius: 0; box-shadow: none; }
+.posto__detalhe .cartao__nome, .posto__detalhe .cartao__voto { display: none; }
+.posto__detalhe .cartao__area { margin-bottom: 0; }
+.posto__detalhe .cartao__texto { margin-top: 10px; }
+.posto__detalhe .acoes { padding-bottom: 16px; }

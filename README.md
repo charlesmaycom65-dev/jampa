@@ -11,7 +11,7 @@ Painel para um grupo de amigos escolher, dia a dia, as praias, passeios, restaur
 | Cartão | `js/cartao.js` | Foto, fatos e botões de cada lugar |
 | Google | `js/google.js` | Bloco do Places UI Kit, criado só quando o cartão chega perto da tela |
 | Votos | `js/votos.js`, `js/placar.js` | Votação ao vivo no Firebase, cálculo dos líderes e do ranking |
-| Placar | `placar.html`, `js/tela-placar.js` | Tela de resultado: do mais votado ao menos votado, com quem votou, por dia e por tipo de lugar. Só lê os votos |
+| Placar | `placar.html`, `js/tela-placar.js` | Tela de resultado: do mais votado ao menos votado, com quem votou, por dia e por tipo de lugar. Tocar num item abre o mesmo cartão da tela de votar, sem o botão Votar. Só lê os votos |
 | Janelas | `js/folhas.js`, `js/plano-b.js` | Mapa, galeria de fotos e plano B pelo WhatsApp |
 | Dados | `data/lugares.json` | Textos, valores, rotas e créditos das fotos |
 | Regras | `database.rules.json` | Cópia das regras publicadas no Firebase |

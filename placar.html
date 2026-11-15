@@ -20,7 +20,7 @@
     <div class="capa__texto">
       <p class="capa__sobre">Jampa 7 dias · resultado</p>
       <h1>Placar do grupo</h1>
-      <p class="capa__sub">Do mais votado ao menos votado, com quem votou em cada lugar.</p>
+      <p class="capa__sub">Do mais votado ao menos votado, com quem votou. Toque num lugar para ver os detalhes.</p>
       <p class="capa__status"><span id="ponto-vivo" class="ponto"></span><span id="texto-vivo">Conectando</span><span id="placar-total"></span></p>
       <p class="capa__credito">Praia do Cabo Branco. Foto: Cacio Murilo/MTur · domínio público</p>
     </div>
@@ -45,6 +45,17 @@
   <div class="barra">
     <p class="barra__conta" id="placar-conta"></p>
     <a class="botao botao--escuro" href="./">Voltar para votar</a>
+  </div>
+
+  <div id="folha" class="folha" hidden>
+    <button class="folha__fundo" type="button" aria-label="Fechar" data-fechar></button>
+    <div class="folha__caixa" role="dialog" aria-modal="true" aria-labelledby="folha-titulo">
+      <div class="folha__topo">
+        <h3 id="folha-titulo"></h3>
+        <button class="folha__fechar" type="button" aria-label="Fechar" data-fechar>×</button>
+      </div>
+      <div id="folha-corpo" class="folha__corpo"></div>
+    </div>
   </div>
 
   <script type="module" src="js/tela-placar.js"></script>
